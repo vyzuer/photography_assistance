@@ -1,0 +1,2569 @@
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4451.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4451.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.479817867279
+Starting  merging superpixels ...
+merging superpixel done. run time =  4.05311584473e-06
+Starting  connected components ...
+Number of connected components =  885
+connected components done. run time =  0.0130770206451
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00401282310486
+Total number of segments remaining =  48
+segmentation done. run time =  0.516579866409
+Starting  saliency... ...
+saliency done. run time =  3.47413420677
+Starting  face detection... ...
+0
+face detection done. run time =  0.0605568885803
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.0295920372
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.529681921005
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.829465866089
+(1844,)
+(1, 1844)
+[[ 0.89639986  0.10360014]]
+Total run time =  6.49647593498
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4452.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4452.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.463179111481
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.96046447754e-06
+Starting  connected components ...
+Number of connected components =  796
+connected components done. run time =  0.0132341384888
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00399994850159
+Total number of segments remaining =  50
+segmentation done. run time =  0.499191045761
+Starting  saliency... ...
+saliency done. run time =  3.46386599541
+Starting  face detection... ...
+1
+face detection done. run time =  0.055741071701
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.03802108765
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.530674934387
+Starting  composition... ...
+[ 1.          0.01782552]
+composition done. run time =  0.931546926498
+(1844,)
+(1, 1844)
+[[ 0.92292256  0.07707744]]
+[ 0.92214741  0.07785259]
+[ 0.92226745  0.07773255]
+[ 0.92242434  0.07757566]
+[ 0.92256619  0.07743381]
+[ 0.92271748  0.07728252]
+[ 0.92283356  0.07716644]
+[ 0.9229399  0.0770601]
+[ 0.92301102  0.07698898]
+[ 0.92316789  0.07683211]
+[ 0.92360906  0.07639094]
+[ 0.92395742  0.07604258]
+[ 0.92425929  0.07574071]
+[ 0.92452002  0.07547998]
+[ 0.92477185  0.07522815]
+[ 0.92483481  0.07516519]
+[ 0.92443655  0.07556345]
+[ 0.92376303  0.07623697]
+[ 0.92288974  0.07711026]
+[ 0.92238413  0.07761587]
+[ 0.92261762  0.07738238]
+[ 0.92273656  0.07726344]
+[ 0.92312189  0.07687811]
+[ 0.92348359  0.07651641]
+[ 0.92429403  0.07570597]
+[ 0.92561054  0.07438946]
+[ 0.92676593  0.07323407]
+[ 0.92774633  0.07225367]
+[ 0.92880511  0.07119489]
+[ 0.92994007  0.07005993]
+[ 0.93066861  0.06933139]
+[ 0.93089036  0.06910964]
+[ 0.9305712  0.0694288]
+[ 0.93004718  0.06995282]
+[ 0.9292948  0.0707052]
+[ 0.92687813  0.07312187]
+[ 0.92358467  0.07641533]
+[ 0.92105254  0.07894746]
+[ 0.91983829  0.08016171]
+[ 0.91950041  0.08049959]
+[ 0.91931261  0.08068739]
+[ 0.92100349  0.07899651]
+[ 0.92317061  0.07682939]
+[ 0.92402954  0.07597046]
+[ 0.92398953  0.07601047]
+[ 0.92314968  0.07685032]
+[ 0.92221149  0.07778851]
+[ 0.9212348  0.0787652]
+0.930890360434 114
+Total run time =  10.0374209881
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4453.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4453.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.462599992752
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.00679016113e-06
+Starting  connected components ...
+Number of connected components =  737
+connected components done. run time =  0.0159611701965
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00407791137695
+Total number of segments remaining =  46
+segmentation done. run time =  0.500746011734
+Starting  saliency... ...
+saliency done. run time =  3.46891403198
+Starting  face detection... ...
+0
+face detection done. run time =  0.0514061450958
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.02348303795
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.491312026978
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.810082912445
+(1844,)
+(1, 1844)
+[[ 0.80559438  0.19440562]]
+Total run time =  6.36470985413
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4454.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4454.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.462136030197
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.00679016113e-06
+Starting  connected components ...
+Number of connected components =  918
+connected components done. run time =  0.01313996315
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00399589538574
+Total number of segments remaining =  46
+segmentation done. run time =  0.497181892395
+Starting  saliency... ...
+saliency done. run time =  3.4236330986
+Starting  face detection... ...
+1
+face detection done. run time =  0.0560760498047
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.987179994583
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.490759134293
+Starting  composition... ...
+[ 1.          0.02520833]
+composition done. run time =  0.995416879654
+(1844,)
+(1, 1844)
+[[ 0.7374896  0.2625104]]
+[ 0.73515975  0.26484025]
+[ 0.73571303  0.26428697]
+[ 0.73620996  0.26379004]
+[ 0.73667027  0.26332973]
+[ 0.73710476  0.26289524]
+[ 0.73731783  0.26268217]
+[ 0.73840418  0.26159582]
+[ 0.7393  0.2607]
+[ 0.7398238  0.2601762]
+[ 0.74194011  0.25805989]
+[ 0.74380858  0.25619142]
+[ 0.74718141  0.25281859]
+[ 0.75004595  0.24995405]
+[ 0.75372841  0.24627159]
+[ 0.75842604  0.24157396]
+[ 0.76232376  0.23767624]
+[ 0.76458869  0.23541131]
+[ 0.76596443  0.23403557]
+[ 0.76594169  0.23405831]
+[ 0.76630378  0.23369622]
+[ 0.76525129  0.23474871]
+[ 0.76214797  0.23785203]
+[ 0.75895825  0.24104175]
+[ 0.75627662  0.24372338]
+[ 0.75393874  0.24606126]
+[ 0.75234981  0.24765019]
+[ 0.75101131  0.24898869]
+[ 0.75095478  0.24904522]
+[ 0.75071986  0.24928014]
+[ 0.75055129  0.24944871]
+[ 0.75001868  0.24998132]
+[ 0.74987938  0.25012062]
+[ 0.7499449  0.2500551]
+[ 0.74918286  0.25081714]
+[ 0.74813016  0.25186984]
+[ 0.74630848  0.25369152]
+[ 0.74471069  0.25528931]
+[ 0.74335954  0.25664046]
+[ 0.74185278  0.25814722]
+[ 0.74007248  0.25992752]
+[ 0.7380343  0.2619657]
+[ 0.73483847  0.26516153]
+[ 0.73236046  0.26763954]
+[ 0.73035001  0.26964999]
+[ 0.72841895  0.27158105]
+[ 0.72687624  0.27312376]
+0.76630377685 174
+Total run time =  10.6113820076
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4455.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4455.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.459245204926
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.00679016113e-06
+Starting  connected components ...
+Number of connected components =  745
+connected components done. run time =  0.0124499797821
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.0038959980011
+Total number of segments remaining =  50
+segmentation done. run time =  0.493359088898
+Starting  saliency... ...
+saliency done. run time =  3.48045992851
+Starting  face detection... ...
+1
+face detection done. run time =  0.0507669448853
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.0363650322
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.503175973892
+Starting  composition... ...
+[ 1.          0.00255208]
+composition done. run time =  0.819628000259
+(1844,)
+(1, 1844)
+[[ 0.79831703  0.20168297]]
+[ 0.79938808  0.20061192]
+[ 0.79925877  0.20074123]
+[ 0.79881595  0.20118405]
+[ 0.79841285  0.20158715]
+[ 0.79856652  0.20143348]
+[ 0.79904685  0.20095315]
+[ 0.7994489  0.2005511]
+[ 0.79900072  0.20099928]
+[ 0.79875936  0.20124064]
+[ 0.79839189  0.20160811]
+[ 0.7983988  0.2016012]
+[ 0.79798016  0.20201984]
+[ 0.79759921  0.20240079]
+[ 0.79746187  0.20253813]
+[ 0.79748301  0.20251699]
+[ 0.79764779  0.20235221]
+[ 0.79828847  0.20171153]
+[ 0.79899817  0.20100183]
+[ 0.79924191  0.20075809]
+[ 0.79899819  0.20100181]
+[ 0.7988738  0.2011262]
+[ 0.7990802  0.2009198]
+[ 0.7993824  0.2006176]
+[ 0.79941498  0.20058502]
+[ 0.79937916  0.20062084]
+[ 0.79927512  0.20072488]
+[ 0.79899436  0.20100564]
+[ 0.79898767  0.20101233]
+[ 0.7990322  0.2009678]
+[ 0.79908653  0.20091347]
+[ 0.79911557  0.20088443]
+[ 0.79932753  0.20067247]
+[ 0.79960234  0.20039766]
+[ 0.79972081  0.20027919]
+[ 0.79953261  0.20046739]
+[ 0.7993203  0.2006797]
+[ 0.79919888  0.20080112]
+[ 0.79925046  0.20074954]
+[ 0.79932509  0.20067491]
+[ 0.79916686  0.20083314]
+[ 0.79883493  0.20116507]
+[ 0.79870005  0.20129995]
+[ 0.79896936  0.20103064]
+[ 0.79914086  0.20085914]
+[ 0.79888649  0.20111351]
+[ 0.79849108  0.20150892]
+[ 0.79841511  0.20158489]
+[ 0.7984474  0.2015526]
+[ 0.79848835  0.20151165]
+[ 0.79856869  0.20143131]
+[ 0.79845438  0.20154562]
+0.799720805345 355
+Total run time =  8.49839997292
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4456.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4456.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.471485137939
+Starting  merging superpixels ...
+merging superpixel done. run time =  4.05311584473e-06
+Starting  connected components ...
+Number of connected components =  793
+connected components done. run time =  0.0131759643555
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00396585464478
+Total number of segments remaining =  55
+segmentation done. run time =  0.507009029388
+Starting  saliency... ...
+saliency done. run time =  3.45121908188
+Starting  face detection... ...
+1
+face detection done. run time =  0.0613100528717
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.01615905762
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.525987863541
+Starting  composition... ...
+[ 1.          0.00949219]
+composition done. run time =  0.865212917328
+(1844,)
+(1, 1844)
+[[ 0.82664861  0.17335139]]
+[ 0.83232778  0.16767222]
+[ 0.83227025  0.16772975]
+[ 0.83202077  0.16797923]
+[ 0.83187767  0.16812233]
+[ 0.83172874  0.16827126]
+[ 0.83162425  0.16837575]
+[ 0.83136088  0.16863912]
+[ 0.83139834  0.16860166]
+[ 0.8317038  0.1682962]
+[ 0.83301151  0.16698849]
+[ 0.8345032  0.1654968]
+[ 0.83551893  0.16448107]
+[ 0.83702446  0.16297554]
+[ 0.83802503  0.16197497]
+[ 0.83716546  0.16283454]
+[ 0.83573987  0.16426013]
+[ 0.83405399  0.16594601]
+[ 0.83172325  0.16827675]
+[ 0.82928056  0.17071944]
+[ 0.82845459  0.17154541]
+[ 0.82849792  0.17150208]
+[ 0.82867178  0.17132822]
+[ 0.82972052  0.17027948]
+[ 0.83010301  0.16989699]
+[ 0.83009818  0.16990182]
+[ 0.82991545  0.17008455]
+[ 0.82942698  0.17057302]
+[ 0.82863509  0.17136491]
+[ 0.82818181  0.17181819]
+[ 0.82760093  0.17239907]
+[ 0.8271219  0.1728781]
+[ 0.82676771  0.17323229]
+[ 0.82699494  0.17300506]
+[ 0.82741139  0.17258861]
+[ 0.82779367  0.17220633]
+[ 0.82810711  0.17189289]
+[ 0.82825134  0.17174866]
+[ 0.82860174  0.17139826]
+[ 0.82844845  0.17155155]
+[ 0.82818332  0.17181668]
+[ 0.82788785  0.17211215]
+[ 0.827255  0.172745]
+[ 0.82671221  0.17328779]
+[ 0.82615191  0.17384809]
+[ 0.82583247  0.17416753]
+[ 0.82565307  0.17434693]
+[ 0.82564888  0.17435112]
+[ 0.82560258  0.17439742]
+0.838025031531 -214
+Total run time =  9.18714594841
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4457.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4457.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.491624832153
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.00679016113e-06
+Starting  connected components ...
+Number of connected components =  1045
+connected components done. run time =  0.0148141384125
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00419497489929
+Total number of segments remaining =  47
+segmentation done. run time =  0.52899479866
+Starting  saliency... ...
+saliency done. run time =  3.40685987473
+Starting  face detection... ...
+2
+face detection done. run time =  0.0622119903564
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.957151889801
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.526504993439
+Starting  composition... ...
+[ 2.          0.01020833]
+composition done. run time =  0.930442094803
+(1844,)
+(1, 1844)
+[[ 0.82291605  0.17708395]]
+[ 0.82887251  0.17112749]
+[ 0.83037955  0.16962045]
+[ 0.83051586  0.16948414]
+[ 0.83191451  0.16808549]
+[ 0.83400014  0.16599986]
+[ 0.8364357  0.1635643]
+[ 0.83875716  0.16124284]
+[ 0.83992099  0.16007901]
+[ 0.84015792  0.15984208]
+[ 0.83991545  0.16008455]
+[ 0.83746692  0.16253308]
+[ 0.83392621  0.16607379]
+[ 0.82998753  0.17001247]
+[ 0.82567191  0.17432809]
+[ 0.82469965  0.17530035]
+[ 0.82429968  0.17570032]
+[ 0.8196887  0.1803113]
+[ 0.81986734  0.18013266]
+[ 0.81964727  0.18035273]
+[ 0.81977435  0.18022565]
+[ 0.82383967  0.17616033]
+[ 0.82556654  0.17443346]
+[ 0.82748796  0.17251204]
+[ 0.8312446  0.1687554]
+[ 0.83427333  0.16572667]
+[ 0.83642657  0.16357343]
+[ 0.83836179  0.16163821]
+[ 0.83926474  0.16073526]
+[ 0.84001313  0.15998687]
+[ 0.84054482  0.15945518]
+[ 0.83923289  0.16076711]
+[ 0.83770435  0.16229565]
+[ 0.83106331  0.16893669]
+[ 0.82818699  0.17181301]
+[ 0.82522689  0.17477311]
+[ 0.82395759  0.17604241]
+[ 0.82540072  0.17459928]
+[ 0.82503736  0.17496264]
+[ 0.82279677  0.17720323]
+[ 0.81954286  0.18045714]
+[ 0.81752977  0.18247023]
+[ 0.81728028  0.18271972]
+[ 0.81739098  0.18260902]
+[ 0.81619276  0.18380724]
+0.840544818082 113
+Total run time =  9.70254588127
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4458.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4458.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.469268083572
+Starting  merging superpixels ...
+merging superpixel done. run time =  4.05311584473e-06
+Starting  connected components ...
+Number of connected components =  958
+connected components done. run time =  0.0132958889008
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00398397445679
+Total number of segments remaining =  49
+segmentation done. run time =  0.50492310524
+Starting  saliency... ...
+saliency done. run time =  3.46912407875
+Starting  face detection... ...
+3
+face detection done. run time =  0.0600099563599
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.978844881058
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.501230955124
+Starting  composition... ...
+[ 3.          0.02578451]
+composition done. run time =  1.07834601402
+(1844,)
+(1, 1844)
+[[ 0.78406861  0.21593139]]
+[ 0.80383098  0.19616902]
+[ 0.80374336  0.19625664]
+[ 0.80350482  0.19649518]
+[ 0.80258472  0.19741528]
+[ 0.80170986  0.19829014]
+[ 0.80022736  0.19977264]
+[ 0.79826093  0.20173907]
+[ 0.79757663  0.20242337]
+[ 0.79713258  0.20286742]
+[ 0.79852269  0.20147731]
+[ 0.79699143  0.20300857]
+[ 0.79540865  0.20459135]
+[ 0.79321253  0.20678747]
+[ 0.79115686  0.20884314]
+[ 0.78873379  0.21126621]
+[ 0.78732115  0.21267885]
+[ 0.78475088  0.21524912]
+[ 0.78581404  0.21418596]
+[ 0.78606085  0.21393915]
+[ 0.78820064  0.21179936]
+[ 0.79169959  0.20830041]
+[ 0.79596704  0.20403296]
+[ 0.79971535  0.20028465]
+[ 0.80278977  0.19721023]
+[ 0.80589306  0.19410694]
+[ 0.81026154  0.18973846]
+[ 0.8164047  0.1835953]
+[ 0.82077854  0.17922146]
+[ 0.82350685  0.17649315]
+[ 0.82625709  0.17374291]
+[ 0.82746475  0.17253525]
+[ 0.82817622  0.17182378]
+[ 0.8301858  0.1698142]
+[ 0.83266091  0.16733909]
+[ 0.83380614  0.16619386]
+[ 0.83384567  0.16615433]
+[ 0.8311921  0.1688079]
+[ 0.82731698  0.17268302]
+[ 0.82341829  0.17658171]
+[ 0.81920247  0.18079753]
+[ 0.81439703  0.18560297]
+0.833845671814 225
+Total run time =  11.5166490078
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4460.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4460.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.41822385788
+Starting  merging superpixels ...
+merging superpixel done. run time =  4.05311584473e-06
+Starting  connected components ...
+Number of connected components =  410
+connected components done. run time =  0.0117318630219
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00366401672363
+Total number of segments remaining =  47
+segmentation done. run time =  0.449997901917
+Starting  saliency... ...
+saliency done. run time =  3.17523097992
+Starting  face detection... ...
+0
+face detection done. run time =  0.0452270507812
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.939984083176
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.453608036041
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.713912010193
+(1844,)
+(1, 1844)
+[[ 0.75549267  0.24450733]]
+Total run time =  5.79521012306
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4461.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4461.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.45307803154
+Starting  merging superpixels ...
+merging superpixel done. run time =  4.05311584473e-06
+Starting  connected components ...
+Number of connected components =  670
+connected components done. run time =  0.0130200386047
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00395703315735
+Total number of segments remaining =  51
+segmentation done. run time =  0.488113164902
+Starting  saliency... ...
+saliency done. run time =  3.21607708931
+Starting  face detection... ...
+1
+face detection done. run time =  0.0473849773407
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.973332881927
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.447770118713
+Starting  composition... ...
+[ 1.          0.01291992]
+composition done. run time =  0.813646793365
+(1844,)
+(1, 1844)
+[[ 0.78132785  0.21867215]]
+[ 0.7824492  0.2175508]
+[ 0.78252454  0.21747546]
+[ 0.78243467  0.21756533]
+[ 0.78229694  0.21770306]
+[ 0.78240628  0.21759372]
+[ 0.78252327  0.21747673]
+[ 0.78268795  0.21731205]
+[ 0.78262243  0.21737757]
+[ 0.78178597  0.21821403]
+[ 0.78014949  0.21985051]
+[ 0.77822927  0.22177073]
+[ 0.77613397  0.22386603]
+[ 0.77424315  0.22575685]
+[ 0.7726471  0.2273529]
+[ 0.77152019  0.22847981]
+[ 0.77066331  0.22933669]
+[ 0.77015827  0.22984173]
+[ 0.76999686  0.23000314]
+[ 0.77150144  0.22849856]
+[ 0.77397707  0.22602293]
+[ 0.7766799  0.2233201]
+[ 0.77903338  0.22096662]
+[ 0.78132785  0.21867215]
+[ 0.78214755  0.21785245]
+[ 0.78300751  0.21699249]
+[ 0.78328744  0.21671256]
+[ 0.78338288  0.21661712]
+[ 0.78360042  0.21639958]
+[ 0.78370544  0.21629456]
+[ 0.78370708  0.21629292]
+[ 0.78393721  0.21606279]
+[ 0.78414142  0.21585858]
+[ 0.78351652  0.21648348]
+[ 0.78154833  0.21845167]
+[ 0.77915331  0.22084669]
+[ 0.77640522  0.22359478]
+[ 0.77237448  0.22762552]
+[ 0.7690508  0.2309492]
+[ 0.7669912  0.2330088]
+[ 0.76563015  0.23436985]
+[ 0.76431496  0.23568504]
+[ 0.76389632  0.23610368]
+[ 0.76477349  0.23522651]
+[ 0.7671799  0.2328201]
+[ 0.77023142  0.22976858]
+[ 0.77264336  0.22735664]
+[ 0.7754471  0.2245529]
+[ 0.777289  0.222711]
+0.784141423014 108
+Total run time =  8.91306209564
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4462.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4462.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.480803012848
+Starting  merging superpixels ...
+merging superpixel done. run time =  6.91413879395e-06
+Starting  connected components ...
+Number of connected components =  689
+connected components done. run time =  0.0132789611816
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00404810905457
+Total number of segments remaining =  46
+segmentation done. run time =  0.516788959503
+Starting  saliency... ...
+saliency done. run time =  3.4836730957
+Starting  face detection... ...
+1
+face detection done. run time =  0.0558259487152
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.04154109955
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.494760036469
+Starting  composition... ...
+[ 1.         0.0084668]
+composition done. run time =  0.884490966797
+(1844,)
+(1, 1844)
+[[ 0.61935694  0.38064306]]
+[ 0.61791309  0.38208691]
+[ 0.61760456  0.38239544]
+[ 0.61741452  0.38258548]
+[ 0.61703417  0.38296583]
+[ 0.61649765  0.38350235]
+[ 0.61560944  0.38439056]
+[ 0.61477076  0.38522924]
+[ 0.61429396  0.38570604]
+[ 0.61414724  0.38585276]
+[ 0.61470318  0.38529682]
+[ 0.61526012  0.38473988]
+[ 0.61566865  0.38433135]
+[ 0.61614889  0.38385111]
+[ 0.61611265  0.38388735]
+[ 0.61680536  0.38319464]
+[ 0.61796345  0.38203655]
+[ 0.61925756  0.38074244]
+[ 0.62081612  0.37918388]
+[ 0.621494  0.378506]
+[ 0.62031905  0.37968095]
+[ 0.61958466  0.38041534]
+[ 0.61919791  0.38080209]
+[ 0.61914887  0.38085113]
+[ 0.62029761  0.37970239]
+[ 0.6215805  0.3784195]
+[ 0.62215016  0.37784984]
+[ 0.62362403  0.37637597]
+[ 0.62525808  0.37474192]
+[ 0.62617566  0.37382434]
+[ 0.62664211  0.37335789]
+[ 0.62518249  0.37481751]
+[ 0.62229702  0.37770298]
+[ 0.62054365  0.37945635]
+[ 0.61951603  0.38048397]
+[ 0.61896019  0.38103981]
+[ 0.6199975  0.3800025]
+[ 0.62114205  0.37885795]
+[ 0.62191875  0.37808125]
+[ 0.62355704  0.37644296]
+[ 0.62490429  0.37509571]
+[ 0.62577078  0.37422922]
+[ 0.6259465  0.3740535]
+[ 0.62591113  0.37408887]
+[ 0.62435897  0.37564103]
+[ 0.62260251  0.37739749]
+[ 0.62057824  0.37942176]
+[ 0.61862412  0.38137588]
+[ 0.61765686  0.38234314]
+[ 0.61758348  0.38241652]
+0.626642114011 80
+Total run time =  9.18888497353
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4463.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4463.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.483325004578
+Starting  merging superpixels ...
+merging superpixel done. run time =  4.05311584473e-06
+Starting  connected components ...
+Number of connected components =  779
+connected components done. run time =  0.0131571292877
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00399303436279
+Total number of segments remaining =  49
+segmentation done. run time =  0.518520832062
+Starting  saliency... ...
+saliency done. run time =  3.44193601608
+Starting  face detection... ...
+1
+face detection done. run time =  0.0545670986176
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.03053808212
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.503579139709
+Starting  composition... ...
+[ 1.          0.01095052]
+composition done. run time =  0.891298055649
+(1844,)
+(1, 1844)
+[[ 0.72437137  0.27562863]]
+[ 0.72988105  0.27011895]
+[ 0.73115576  0.26884424]
+[ 0.73160606  0.26839394]
+[ 0.73188619  0.26811381]
+[ 0.73202067  0.26797933]
+[ 0.73168458  0.26831542]
+[ 0.73073324  0.26926676]
+[ 0.72903944  0.27096056]
+[ 0.72678695  0.27321305]
+[ 0.72615449  0.27384551]
+[ 0.72583299  0.27416701]
+[ 0.72561266  0.27438734]
+[ 0.72644543  0.27355457]
+[ 0.72706802  0.27293198]
+[ 0.7266428  0.2733572]
+[ 0.72633539  0.27366461]
+[ 0.72635069  0.27364931]
+[ 0.72680536  0.27319464]
+[ 0.72616899  0.27383101]
+[ 0.72510812  0.27489188]
+[ 0.72501003  0.27498997]
+[ 0.72455138  0.27544862]
+[ 0.72359144  0.27640856]
+[ 0.72407969  0.27592031]
+[ 0.72426142  0.27573858]
+[ 0.72391909  0.27608091]
+[ 0.72437137  0.27562863]
+[ 0.72615307  0.27384693]
+[ 0.72800776  0.27199224]
+[ 0.7305069  0.2694931]
+[ 0.73315973  0.26684027]
+[ 0.73572999  0.26427001]
+[ 0.73849419  0.26150581]
+[ 0.74147154  0.25852846]
+[ 0.74361803  0.25638197]
+[ 0.74666699  0.25333301]
+[ 0.75000777  0.24999223]
+[ 0.75339504  0.24660496]
+[ 0.75548584  0.24451416]
+[ 0.75575528  0.24424472]
+[ 0.75107652  0.24892348]
+[ 0.74493418  0.25506582]
+[ 0.73835802  0.26164198]
+[ 0.73265516  0.26734484]
+[ 0.72957081  0.27042919]
+[ 0.72999779  0.27000221]
+[ 0.73037694  0.26962306]
+[ 0.73075119  0.26924881]
+0.75575528374 156
+Total run time =  9.31956410408
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4464.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4464.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.470957994461
+Starting  merging superpixels ...
+merging superpixel done. run time =  3.81469726562e-06
+Starting  connected components ...
+Number of connected components =  991
+connected components done. run time =  0.0132038593292
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00400996208191
+Total number of segments remaining =  48
+segmentation done. run time =  0.506619930267
+Starting  saliency... ...
+saliency done. run time =  3.41105413437
+Starting  face detection... ...
+3
+face detection done. run time =  0.0650970935822
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.958084106445
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.512120962143
+Starting  composition... ...
+[ 3.          0.01980469]
+composition done. run time =  1.10009789467
+(1844,)
+(1, 1844)
+[[ 0.72734382  0.27265618]]
+[ 0.713207  0.286793]
+[ 0.71618047  0.28381953]
+[ 0.71920218  0.28079782]
+[ 0.7216974  0.2783026]
+[ 0.72176473  0.27823527]
+[ 0.72185346  0.27814654]
+[ 0.72193978  0.27806022]
+[ 0.72167782  0.27832218]
+[ 0.72202087  0.27797913]
+[ 0.72335993  0.27664007]
+[ 0.72565117  0.27434883]
+[ 0.72821559  0.27178441]
+[ 0.73008779  0.26991221]
+[ 0.73011929  0.26988071]
+[ 0.72941595  0.27058405]
+[ 0.72883702  0.27116298]
+[ 0.72839976  0.27160024]
+[ 0.72660203  0.27339797]
+[ 0.72435459  0.27564541]
+[ 0.72379075  0.27620925]
+[ 0.72326853  0.27673147]
+[ 0.72255004  0.27744996]
+[ 0.72281152  0.27718848]
+[ 0.72132956  0.27867044]
+[ 0.72066139  0.27933861]
+[ 0.71899773  0.28100227]
+[ 0.71748961  0.28251039]
+0.730119289975 -46
+Total run time =  10.2926368713
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4465.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4465.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.473633050919
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.00679016113e-06
+Starting  connected components ...
+Number of connected components =  1000
+connected components done. run time =  0.0132551193237
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00398707389832
+Total number of segments remaining =  51
+segmentation done. run time =  0.509952068329
+Starting  saliency... ...
+saliency done. run time =  3.42073202133
+Starting  face detection... ...
+2
+face detection done. run time =  0.0626389980316
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.997528791428
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.529186964035
+Starting  composition... ...
+[ 2.          0.01640951]
+composition done. run time =  1.002794981
+(1844,)
+(1, 1844)
+[[ 0.85674985  0.14325015]]
+[ 0.84837011  0.15162989]
+[ 0.84989642  0.15010358]
+[ 0.85102344  0.14897656]
+[ 0.85167526  0.14832474]
+[ 0.85109289  0.14890711]
+[ 0.85038523  0.14961477]
+[ 0.85089925  0.14910075]
+[ 0.85241776  0.14758224]
+[ 0.85394899  0.14605101]
+[ 0.85556677  0.14443323]
+[ 0.85739573  0.14260427]
+[ 0.85763066  0.14236934]
+[ 0.85715765  0.14284235]
+[ 0.85697194  0.14302806]
+[ 0.85687293  0.14312707]
+[ 0.85679787  0.14320213]
+[ 0.85666148  0.14333852]
+[ 0.85693117  0.14306883]
+[ 0.85676667  0.14323333]
+[ 0.85673795  0.14326205]
+[ 0.85781418  0.14218582]
+[ 0.85889345  0.14110655]
+[ 0.86006362  0.13993638]
+[ 0.86063228  0.13936772]
+[ 0.86061172  0.13938828]
+[ 0.86099341  0.13900659]
+[ 0.86066524  0.13933476]
+[ 0.86012114  0.13987886]
+[ 0.85966256  0.14033744]
+[ 0.85900864  0.14099136]
+[ 0.85802178  0.14197822]
+[ 0.85646624  0.14353376]
+[ 0.85459934  0.14540066]
+[ 0.8530736  0.1469264]
+[ 0.85147785  0.14852215]
+[ 0.84985983  0.15014017]
+[ 0.84856669  0.15143331]
+[ 0.84655977  0.15344023]
+[ 0.84433591  0.15566409]
+[ 0.84180317  0.15819683]
+0.860993409175 82
+Total run time =  10.5714049339
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4466.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4466.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.480535984039
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.00679016113e-06
+Starting  connected components ...
+Number of connected components =  1028
+connected components done. run time =  0.0133700370789
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00400400161743
+Total number of segments remaining =  52
+segmentation done. run time =  0.516494989395
+Starting  saliency... ...
+saliency done. run time =  3.46744298935
+Starting  face detection... ...
+2
+face detection done. run time =  0.0608417987823
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.992830038071
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.509306907654
+Starting  composition... ...
+[ 2.          0.01595052]
+composition done. run time =  0.987384080887
+(1844,)
+(1, 1844)
+[[ 0.74658843  0.25341157]]
+[ 0.74017895  0.25982105]
+[ 0.74273059  0.25726941]
+[ 0.7455823  0.2544177]
+[ 0.74815981  0.25184019]
+[ 0.75059374  0.24940626]
+[ 0.75309535  0.24690465]
+[ 0.75607767  0.24392233]
+[ 0.75795987  0.24204013]
+[ 0.7579797  0.2420203]
+[ 0.75806014  0.24193986]
+[ 0.75796053  0.24203947]
+[ 0.75639955  0.24360045]
+[ 0.75422445  0.24577555]
+[ 0.75215978  0.24784022]
+[ 0.75116397  0.24883603]
+[ 0.75015643  0.24984357]
+[ 0.74922825  0.25077175]
+[ 0.7480825  0.2519175]
+[ 0.7469045  0.2530955]
+[ 0.74621503  0.25378497]
+[ 0.74665075  0.25334925]
+[ 0.74642926  0.25357074]
+[ 0.74567157  0.25432843]
+[ 0.74714684  0.25285316]
+[ 0.74847342  0.25152658]
+[ 0.74992705  0.25007295]
+[ 0.75114954  0.24885046]
+[ 0.75300724  0.24699276]
+[ 0.75535218  0.24464782]
+[ 0.75654675  0.24345325]
+[ 0.75705443  0.24294557]
+[ 0.75670268  0.24329732]
+[ 0.75495639  0.24504361]
+[ 0.75313256  0.24686744]
+[ 0.75064043  0.24935957]
+[ 0.74810708  0.25189292]
+[ 0.74587922  0.25412078]
+[ 0.74322462  0.25677538]
+[ 0.73959305  0.26040695]
+[ 0.7359359  0.2640641]
+[ 0.73238524  0.26761476]
+[ 0.72873588  0.27126412]
+0.758060143074 -143
+Total run time =  10.6146030426
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4471.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4471.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.467675209045
+Starting  merging superpixels ...
+merging superpixel done. run time =  4.05311584473e-06
+Starting  connected components ...
+Number of connected components =  764
+connected components done. run time =  0.0130331516266
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00397205352783
+Total number of segments remaining =  49
+segmentation done. run time =  0.503500938416
+Starting  saliency... ...
+saliency done. run time =  3.45375108719
+Starting  face detection... ...
+0
+face detection done. run time =  0.0529470443726
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.01858091354
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.49183511734
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.845264911652
+(1844,)
+(1, 1844)
+[[ 0.80462165  0.19537835]]
+Total run time =  6.38768196106
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4472.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4472.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.469804048538
+Starting  merging superpixels ...
+merging superpixel done. run time =  8.10623168945e-06
+Starting  connected components ...
+Number of connected components =  1031
+connected components done. run time =  0.0132210254669
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00381994247437
+Total number of segments remaining =  50
+segmentation done. run time =  0.506072044373
+Starting  saliency... ...
+saliency done. run time =  3.44158506393
+Starting  face detection... ...
+0
+face detection done. run time =  0.0641009807587
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.00849914551
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.464395046234
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.820704936981
+(1844,)
+(1, 1844)
+[[ 0.64691542  0.35308458]]
+Total run time =  6.32519078255
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4473.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4473.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.466627836227
+Starting  merging superpixels ...
+merging superpixel done. run time =  4.05311584473e-06
+Starting  connected components ...
+Number of connected components =  535
+connected components done. run time =  0.0131011009216
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00396084785461
+Total number of segments remaining =  49
+segmentation done. run time =  0.501814842224
+Starting  saliency... ...
+saliency done. run time =  3.41874289513
+Starting  face detection... ...
+0
+face detection done. run time =  0.0645098686218
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.02212381363
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.475558042526
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.816718101501
+(1844,)
+(1, 1844)
+[[ 0.85121469  0.14878531]]
+Total run time =  6.31853079796
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4474.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4474.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.472772121429
+Starting  merging superpixels ...
+merging superpixel done. run time =  3.81469726562e-06
+Starting  connected components ...
+Number of connected components =  1173
+connected components done. run time =  0.0133318901062
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00400900840759
+Total number of segments remaining =  49
+segmentation done. run time =  0.508663892746
+Starting  saliency... ...
+saliency done. run time =  3.44989490509
+Starting  face detection... ...
+0
+face detection done. run time =  0.0646820068359
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.46101212502
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.818856954575
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  1.26949715614
+(1844,)
+(1, 1844)
+[[ 0.85537459  0.14462541]]
+Total run time =  7.59639501572
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4475.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4475.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.540059089661
+Starting  merging superpixels ...
+merging superpixel done. run time =  6.91413879395e-06
+Starting  connected components ...
+Number of connected components =  1408
+connected components done. run time =  0.0134279727936
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00397706031799
+Total number of segments remaining =  51
+segmentation done. run time =  0.576281070709
+Starting  saliency... ...
+saliency done. run time =  3.41034889221
+Starting  face detection... ...
+0
+face detection done. run time =  0.0634520053864
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.956624984741
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.463793992996
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.826372146606
+(1844,)
+(1, 1844)
+[[ 0.73888162  0.26111838]]
+Total run time =  6.31662011147
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4476.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4476.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.473618030548
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.00679016113e-06
+Starting  connected components ...
+Number of connected components =  1279
+connected components done. run time =  0.0134921073914
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00401616096497
+Total number of segments remaining =  49
+segmentation done. run time =  0.510088920593
+Starting  saliency... ...
+saliency done. run time =  3.43195796013
+Starting  face detection... ...
+0
+face detection done. run time =  0.0672178268433
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.948966026306
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.467199087143
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.83308506012
+(1844,)
+(1, 1844)
+[[ 0.82200657  0.17799343]]
+Total run time =  6.27840399742
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4477.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4477.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.488238096237
+Starting  merging superpixels ...
+merging superpixel done. run time =  4.05311584473e-06
+Starting  connected components ...
+Number of connected components =  1107
+connected components done. run time =  0.0134570598602
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00401592254639
+Total number of segments remaining =  49
+segmentation done. run time =  0.52489900589
+Starting  saliency... ...
+saliency done. run time =  3.40997600555
+Starting  face detection... ...
+0
+face detection done. run time =  0.063264131546
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.989264965057
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.470248937607
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.821290969849
+(1844,)
+(1, 1844)
+[[ 0.72762793  0.27237207]]
+Total run time =  6.29905390739
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4478.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4478.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.47251200676
+Starting  merging superpixels ...
+merging superpixel done. run time =  8.10623168945e-06
+Starting  connected components ...
+Number of connected components =  1012
+connected components done. run time =  0.0139198303223
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00416088104248
+Total number of segments remaining =  50
+segmentation done. run time =  0.510116815567
+Starting  saliency... ...
+saliency done. run time =  3.41135001183
+Starting  face detection... ...
+0
+face detection done. run time =  0.0621030330658
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.966027975082
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.470946073532
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.819077968597
+(1844,)
+(1, 1844)
+[[ 0.75337953  0.24662047]]
+Total run time =  6.2595770359
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4479.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4479.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.467699050903
+Starting  merging superpixels ...
+merging superpixel done. run time =  4.05311584473e-06
+Starting  connected components ...
+Number of connected components =  1698
+connected components done. run time =  0.013463973999
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00402593612671
+Total number of segments remaining =  47
+segmentation done. run time =  0.504163980484
+Starting  saliency... ...
+saliency done. run time =  3.45764398575
+Starting  face detection... ...
+0
+face detection done. run time =  0.0589139461517
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.921205997467
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.479183197021
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.835952997208
+(1844,)
+(1, 1844)
+[[ 0.78815996  0.21184004]]
+Total run time =  6.27742004395
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4480.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4480.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.467281103134
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.96046447754e-06
+Starting  connected components ...
+Number of connected components =  1309
+connected components done. run time =  0.0127470493317
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00382208824158
+Total number of segments remaining =  53
+segmentation done. run time =  0.502139091492
+Starting  saliency... ...
+saliency done. run time =  3.39756894112
+Starting  face detection... ...
+1
+face detection done. run time =  0.0523450374603
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.944052934647
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.467693090439
+Starting  composition... ...
+[ 1.         0.0084668]
+composition done. run time =  0.867704868317
+(1844,)
+(1, 1844)
+[[ 0.76602318  0.23397682]]
+[ 0.75961791  0.24038209]
+[ 0.75962732  0.24037268]
+[ 0.7599467  0.2400533]
+[ 0.76091119  0.23908881]
+[ 0.76187354  0.23812646]
+[ 0.762797  0.237203]
+[ 0.76353546  0.23646454]
+[ 0.76469061  0.23530939]
+[ 0.76514726  0.23485274]
+[ 0.76501626  0.23498374]
+[ 0.76486958  0.23513042]
+[ 0.76384946  0.23615054]
+[ 0.76266884  0.23733116]
+[ 0.76376295  0.23623705]
+[ 0.76481355  0.23518645]
+[ 0.7651026  0.2348974]
+[ 0.7655638  0.2344362]
+[ 0.76406923  0.23593077]
+[ 0.76167898  0.23832102]
+[ 0.75936594  0.24063406]
+[ 0.75667471  0.24332529]
+[ 0.75481348  0.24518652]
+[ 0.7537056  0.2462944]
+[ 0.75340321  0.24659679]
+[ 0.75400396  0.24599604]
+[ 0.75647082  0.24352918]
+[ 0.75961771  0.24038229]
+[ 0.76237165  0.23762835]
+[ 0.76483709  0.23516291]
+[ 0.76546269  0.23453731]
+[ 0.76531027  0.23468973]
+[ 0.76465646  0.23534354]
+[ 0.76400719  0.23599281]
+[ 0.76370853  0.23629147]
+[ 0.76445559  0.23554441]
+[ 0.76539778  0.23460222]
+[ 0.76697896  0.23302104]
+[ 0.76850009  0.23149991]
+[ 0.76746853  0.23253147]
+[ 0.76623388  0.23376612]
+[ 0.7648458  0.2351542]
+[ 0.76329976  0.23670024]
+[ 0.76186543  0.23813457]
+[ 0.75983909  0.24016091]
+[ 0.75710566  0.24289434]
+[ 0.75425698  0.24574302]
+[ 0.75221776  0.24778224]
+[ 0.75154608  0.24845392]
+[ 0.75122928  0.24877072]
+0.768500085445 249
+Total run time =  8.97069501877
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4484.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4484.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.461546897888
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.00679016113e-06
+Starting  connected components ...
+Number of connected components =  783
+connected components done. run time =  0.0131058692932
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00396299362183
+Total number of segments remaining =  50
+segmentation done. run time =  0.49706196785
+Starting  saliency... ...
+saliency done. run time =  3.42249202728
+Starting  face detection... ...
+1
+face detection done. run time =  0.0589380264282
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.00859189034
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.484941005707
+Starting  composition... ...
+[ 1.          0.01782552]
+composition done. run time =  0.923968076706
+(1844,)
+(1, 1844)
+[[ 0.67115485  0.32884515]]
+[ 0.66454448  0.33545552]
+[ 0.66680544  0.33319456]
+[ 0.67028033  0.32971967]
+[ 0.67810817  0.32189183]
+[ 0.6823105  0.3176895]
+[ 0.68639904  0.31360096]
+[ 0.68965758  0.31034242]
+[ 0.68937529  0.31062471]
+[ 0.68762068  0.31237932]
+[ 0.68499196  0.31500804]
+[ 0.68229552  0.31770448]
+[ 0.67953772  0.32046228]
+[ 0.67222253  0.32777747]
+[ 0.66961847  0.33038153]
+[ 0.66723758  0.33276242]
+[ 0.66475622  0.33524378]
+[ 0.66226495  0.33773505]
+[ 0.65872816  0.34127184]
+[ 0.65603736  0.34396264]
+[ 0.65535911  0.34464089]
+[ 0.65374393  0.34625607]
+[ 0.65114982  0.34885018]
+[ 0.64988356  0.35011644]
+[ 0.64976935  0.35023065]
+[ 0.65127667  0.34872333]
+[ 0.65379438  0.34620562]
+[ 0.65697041  0.34302959]
+[ 0.66156054  0.33843946]
+[ 0.66452594  0.33547406]
+[ 0.66720182  0.33279818]
+[ 0.66911493  0.33088507]
+[ 0.67064753  0.32935247]
+[ 0.6725526  0.3274474]
+[ 0.67802119  0.32197881]
+[ 0.67968828  0.32031172]
+[ 0.68125681  0.31874319]
+[ 0.68144162  0.31855838]
+[ 0.67984234  0.32015766]
+[ 0.67666835  0.32333165]
+[ 0.66995839  0.33004161]
+[ 0.66700038  0.33299962]
+[ 0.66405684  0.33594316]
+[ 0.66084927  0.33915073]
+[ 0.65837356  0.34162644]
+[ 0.65666117  0.34333883]
+[ 0.65499387  0.34500613]
+[ 0.65321217  0.34678783]
+0.689657578341 -76
+Total run time =  9.92054820061
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4485.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4485.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.46287894249
+Starting  merging superpixels ...
+merging superpixel done. run time =  6.91413879395e-06
+Starting  connected components ...
+Number of connected components =  633
+connected components done. run time =  0.0132570266724
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00423192977905
+Total number of segments remaining =  48
+segmentation done. run time =  0.499285936356
+Starting  saliency... ...
+saliency done. run time =  3.49913406372
+Starting  face detection... ...
+1
+face detection done. run time =  0.050754070282
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.02375817299
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.485865831375
+Starting  composition... ...
+[ 1.          0.01831055]
+composition done. run time =  0.915985107422
+(1844,)
+(1, 1844)
+[[ 0.74918312  0.25081688]]
+[ 0.73591894  0.26408106]
+[ 0.7379405  0.2620595]
+[ 0.74075479  0.25924521]
+[ 0.74410935  0.25589065]
+[ 0.74772816  0.25227184]
+[ 0.75138183  0.24861817]
+[ 0.75598515  0.24401485]
+[ 0.76044461  0.23955539]
+[ 0.76419867  0.23580133]
+[ 0.76650847  0.23349153]
+[ 0.76628894  0.23371106]
+[ 0.76611758  0.23388242]
+[ 0.76427771  0.23572229]
+[ 0.75957817  0.24042183]
+[ 0.75467272  0.24532728]
+[ 0.74996737  0.25003263]
+[ 0.74765755  0.25234245]
+[ 0.74527386  0.25472614]
+[ 0.74384354  0.25615646]
+[ 0.74433232  0.25566768]
+[ 0.74480842  0.25519158]
+[ 0.74527234  0.25472766]
+[ 0.74586844  0.25413156]
+[ 0.7388003  0.2611997]
+[ 0.73062641  0.26937359]
+[ 0.72576752  0.27423248]
+[ 0.72095053  0.27904947]
+[ 0.71604782  0.28395218]
+[ 0.7131342  0.2868658]
+[ 0.71382544  0.28617456]
+[ 0.72424046  0.27575954]
+[ 0.73066605  0.26933395]
+[ 0.73649554  0.26350446]
+[ 0.74184641  0.25815359]
+[ 0.74523894  0.25476106]
+[ 0.74878972  0.25121028]
+[ 0.74853992  0.25146008]
+[ 0.74602853  0.25397147]
+[ 0.74348367  0.25651633]
+[ 0.74190481  0.25809519]
+[ 0.74004714  0.25995286]
+[ 0.73707499  0.26292501]
+[ 0.73359977  0.26640023]
+[ 0.73096522  0.26903478]
+[ 0.72831439  0.27168561]
+[ 0.72545194  0.27454806]
+[ 0.72237501  0.27762499]
+0.766508467641 -77
+Total run time =  10.5469698906
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4486.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4486.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.484893798828
+Starting  merging superpixels ...
+merging superpixel done. run time =  4.05311584473e-06
+Starting  connected components ...
+Number of connected components =  519
+connected components done. run time =  0.0131638050079
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00403189659119
+Total number of segments remaining =  51
+segmentation done. run time =  0.5200111866
+Starting  saliency... ...
+saliency done. run time =  3.42723298073
+Starting  face detection... ...
+0
+face detection done. run time =  0.0528838634491
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.04551386833
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.488472938538
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.813196897507
+(1844,)
+(1, 1844)
+[[ 0.83492632  0.16507368]]
+Total run time =  6.36558485031
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4487.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4487.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.453766107559
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.00679016113e-06
+Starting  connected components ...
+Number of connected components =  634
+connected components done. run time =  0.0130181312561
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00399589538574
+Total number of segments remaining =  50
+segmentation done. run time =  0.48956990242
+Starting  saliency... ...
+saliency done. run time =  3.42059421539
+Starting  face detection... ...
+1
+face detection done. run time =  0.0531849861145
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.04962801933
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.509826898575
+Starting  composition... ...
+[ 1.         0.0319043]
+composition done. run time =  1.01859593391
+(1844,)
+(1, 1844)
+[[ 0.82833215  0.17166785]]
+[ 0.82970036  0.17029964]
+[ 0.82956809  0.17043191]
+[ 0.82938433  0.17061567]
+[ 0.82922935  0.17077065]
+[ 0.82981264  0.17018736]
+[ 0.83091252  0.16908748]
+[ 0.8308554  0.1691446]
+[ 0.83099239  0.16900761]
+[ 0.83122448  0.16877552]
+[ 0.83145848  0.16854152]
+[ 0.83144164  0.16855836]
+[ 0.83106541  0.16893459]
+[ 0.83024878  0.16975122]
+[ 0.82833215  0.17166785]
+[ 0.82929875  0.17070125]
+[ 0.83010636  0.16989364]
+[ 0.8316878  0.1683122]
+[ 0.83374426  0.16625574]
+[ 0.83539341  0.16460659]
+[ 0.83725242  0.16274758]
+[ 0.83875945  0.16124055]
+[ 0.84016928  0.15983072]
+[ 0.84267074  0.15732926]
+[ 0.84583982  0.15416018]
+[ 0.84796862  0.15203138]
+[ 0.84805304  0.15194696]
+[ 0.84891363  0.15108637]
+[ 0.84971595  0.15028405]
+[ 0.85140669  0.14859331]
+[ 0.85310124  0.14689876]
+[ 0.85348888  0.14651112]
+[ 0.85221695  0.14778305]
+[ 0.85045343  0.14954657]
+[ 0.84845515  0.15154485]
+[ 0.84558963  0.15441037]
+[ 0.84461178  0.15538822]
+[ 0.84419108  0.15580892]
+[ 0.84385609  0.15614391]
+[ 0.84338545  0.15661455]
+[ 0.84245587  0.15754413]
+[ 0.84002901  0.15997099]
+[ 0.83722989  0.16277011]
+[ 0.83520953  0.16479047]
+[ 0.83311275  0.16688725]
+[ 0.83052833  0.16947167]
+0.853488875133 204
+Total run time =  11.2855949402
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4488.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4488.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.466716051102
+Starting  merging superpixels ...
+merging superpixel done. run time =  8.10623168945e-06
+Starting  connected components ...
+Number of connected components =  973
+connected components done. run time =  0.0137300491333
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.0042679309845
+Total number of segments remaining =  54
+segmentation done. run time =  0.504608154297
+Starting  saliency... ...
+saliency done. run time =  3.42778396606
+Starting  face detection... ...
+2
+face detection done. run time =  0.0571119785309
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.00046396255
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.491647005081
+Starting  composition... ...
+[ 2.          0.01133138]
+composition done. run time =  0.946836948395
+(1844,)
+(1, 1844)
+[[ 0.8144091  0.1855909]]
+[ 0.81413677  0.18586323]
+[ 0.81390517  0.18609483]
+[ 0.81507112  0.18492888]
+[ 0.81684321  0.18315679]
+[ 0.81881726  0.18118274]
+[ 0.82138831  0.17861169]
+[ 0.82226759  0.17773241]
+[ 0.82193215  0.17806785]
+[ 0.8208456  0.1791544]
+[ 0.81917859  0.18082141]
+[ 0.81892334  0.18107666]
+[ 0.81938696  0.18061304]
+[ 0.8203633  0.1796367]
+[ 0.8220836  0.1779164]
+[ 0.82124293  0.17875707]
+[ 0.82058351  0.17941649]
+[ 0.81833654  0.18166346]
+[ 0.81564212  0.18435788]
+[ 0.81452648  0.18547352]
+[ 0.81455061  0.18544939]
+[ 0.81622481  0.18377519]
+[ 0.81785167  0.18214833]
+[ 0.81960233  0.18039767]
+[ 0.81991509  0.18008491]
+[ 0.82072745  0.17927255]
+[ 0.82189543  0.17810457]
+[ 0.82325872  0.17674128]
+[ 0.8240011  0.1759989]
+[ 0.82547541  0.17452459]
+[ 0.82741707  0.17258293]
+[ 0.82823608  0.17176392]
+[ 0.82855625  0.17144375]
+[ 0.82928989  0.17071011]
+[ 0.82996369  0.17003631]
+[ 0.83019182  0.16980818]
+[ 0.83037168  0.16962832]
+[ 0.82966198  0.17033802]
+[ 0.82722526  0.17277474]
+[ 0.82379291  0.17620709]
+[ 0.82059691  0.17940309]
+[ 0.81869314  0.18130686]
+0.830371677379 193
+Total run time =  9.70209598541
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4489.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4489.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.465827941895
+Starting  merging superpixels ...
+merging superpixel done. run time =  7.15255737305e-06
+Starting  connected components ...
+Number of connected components =  780
+connected components done. run time =  0.0136690139771
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00415182113647
+Total number of segments remaining =  52
+segmentation done. run time =  0.502436876297
+Starting  saliency... ...
+saliency done. run time =  3.44807481766
+Starting  face detection... ...
+2
+face detection done. run time =  0.0556650161743
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.01440596581
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.490215063095
+Starting  composition... ...
+[ 2.          0.01133138]
+composition done. run time =  0.95608496666
+(1844,)
+(1, 1844)
+[[ 0.831361  0.168639]]
+[ 0.8363247  0.1636753]
+[ 0.83640763  0.16359237]
+[ 0.83668525  0.16331475]
+[ 0.83718758  0.16281242]
+[ 0.83841757  0.16158243]
+[ 0.83880276  0.16119724]
+[ 0.83846737  0.16153263]
+[ 0.83776434  0.16223566]
+[ 0.83581536  0.16418464]
+[ 0.83360975  0.16639025]
+[ 0.83255702  0.16744298]
+[ 0.83225252  0.16774748]
+[ 0.83190152  0.16809848]
+[ 0.83265501  0.16734499]
+[ 0.83264722  0.16735278]
+[ 0.83219302  0.16780698]
+[ 0.83088543  0.16911457]
+[ 0.82959806  0.17040194]
+[ 0.82829494  0.17170506]
+[ 0.82816159  0.17183841]
+[ 0.82856123  0.17143877]
+[ 0.82926765  0.17073235]
+[ 0.82929368  0.17070632]
+[ 0.82889456  0.17110544]
+[ 0.82833485  0.17166515]
+[ 0.82922052  0.17077948]
+[ 0.83014901  0.16985099]
+[ 0.83218411  0.16781589]
+[ 0.83445704  0.16554296]
+[ 0.83521827  0.16478173]
+[ 0.83548983  0.16451017]
+[ 0.83558256  0.16441744]
+[ 0.83603638  0.16396362]
+[ 0.83609564  0.16390436]
+[ 0.83687285  0.16312715]
+[ 0.83810539  0.16189461]
+[ 0.83932285  0.16067715]
+[ 0.83932643  0.16067357]
+[ 0.83962192  0.16037808]
+[ 0.83974065  0.16025935]
+[ 0.83945766  0.16054234]
+0.83974064777 281
+Total run time =  9.80511808395
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4490.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4490.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.458003997803
+Starting  merging superpixels ...
+merging superpixel done. run time =  4.05311584473e-06
+Starting  connected components ...
+Number of connected components =  899
+connected components done. run time =  0.0133378505707
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00407314300537
+Total number of segments remaining =  45
+segmentation done. run time =  0.494183063507
+Starting  saliency... ...
+saliency done. run time =  3.46265506744
+Starting  face detection... ...
+0
+face detection done. run time =  0.0568029880524
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.00486207008
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.45997595787
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.832828044891
+(1844,)
+(1, 1844)
+[[ 0.70622375  0.29377625]]
+Total run time =  6.33138799667
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4491.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4491.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.46844792366
+Starting  merging superpixels ...
+merging superpixel done. run time =  8.10623168945e-06
+Starting  connected components ...
+Number of connected components =  597
+connected components done. run time =  0.0126969814301
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00434494018555
+Total number of segments remaining =  50
+segmentation done. run time =  0.504981994629
+Starting  saliency... ...
+saliency done. run time =  3.50324606895
+Starting  face detection... ...
+0
+face detection done. run time =  0.0551450252533
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.07066106796
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.512980937958
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.81600689888
+(1844,)
+(1, 1844)
+[[ 0.88861931  0.11138069]]
+Total run time =  6.48271799088
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4492.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4492.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.467833042145
+Starting  merging superpixels ...
+merging superpixel done. run time =  4.05311584473e-06
+Starting  connected components ...
+Number of connected components =  746
+connected components done. run time =  0.0143659114838
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00406408309937
+Total number of segments remaining =  49
+segmentation done. run time =  0.504570960999
+Starting  saliency... ...
+saliency done. run time =  3.46026206017
+Starting  face detection... ...
+1
+face detection done. run time =  0.0561239719391
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.04015088081
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.509752988815
+Starting  composition... ...
+[ 1.          0.01782552]
+composition done. run time =  0.927379131317
+(1844,)
+(1, 1844)
+[[ 0.89318174  0.10681826]]
+[ 0.89397878  0.10602122]
+[ 0.8960269  0.1039731]
+[ 0.89810396  0.10189604]
+[ 0.90016232  0.09983768]
+[ 0.9019559  0.0980441]
+[ 0.9038473  0.0961527]
+[ 0.90576527  0.09423473]
+[ 0.90660567  0.09339433]
+[ 0.90721033  0.09278967]
+[ 0.90766037  0.09233963]
+[ 0.90808635  0.09191365]
+[ 0.90839634  0.09160366]
+[ 0.90810063  0.09189937]
+[ 0.90660841  0.09339159]
+[ 0.90513463  0.09486537]
+[ 0.90297387  0.09702613]
+[ 0.90043594  0.09956406]
+[ 0.89831852  0.10168148]
+[ 0.8969278  0.1030722]
+[ 0.89630715  0.10369285]
+[ 0.89566826  0.10433174]
+[ 0.89489005  0.10510995]
+[ 0.89363402  0.10636598]
+[ 0.89194859  0.10805141]
+[ 0.89135857  0.10864143]
+[ 0.89128871  0.10871129]
+[ 0.89122244  0.10877756]
+[ 0.8915053  0.1084947]
+[ 0.89284213  0.10715787]
+[ 0.89429365  0.10570635]
+[ 0.89435414  0.10564586]
+[ 0.89395767  0.10604233]
+[ 0.89349034  0.10650966]
+[ 0.89262585  0.10737415]
+[ 0.89095399  0.10904601]
+[ 0.89103358  0.10896642]
+[ 0.89028383  0.10971617]
+[ 0.88956466  0.11043534]
+[ 0.8886825  0.1113175]
+[ 0.88746447  0.11253553]
+[ 0.88698811  0.11301189]
+[ 0.88442938  0.11557062]
+[ 0.882366  0.117634]
+[ 0.8807437  0.1192563]
+[ 0.87915758  0.12084242]
+[ 0.87805132  0.12194868]
+[ 0.87735812  0.12264188]
+0.908396339917 -261
+Total run time =  10.0167701244
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4493.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4493.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.468204975128
+Starting  merging superpixels ...
+merging superpixel done. run time =  3.81469726562e-06
+Starting  connected components ...
+Number of connected components =  763
+connected components done. run time =  0.0131709575653
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00402498245239
+Total number of segments remaining =  49
+segmentation done. run time =  0.503463983536
+Starting  saliency... ...
+saliency done. run time =  3.44066691399
+Starting  face detection... ...
+1
+face detection done. run time =  0.0562641620636
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.04026198387
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.518062114716
+Starting  composition... ...
+[ 1.          0.01734701]
+composition done. run time =  0.922420024872
+(1844,)
+(1, 1844)
+[[ 0.93847059  0.06152941]]
+[ 0.93821571  0.06178429]
+[ 0.93920945  0.06079055]
+[ 0.94001225  0.05998775]
+[ 0.93805745  0.06194255]
+[ 0.93872118  0.06127882]
+[ 0.93928589  0.06071411]
+[ 0.93983612  0.06016388]
+[ 0.93973318  0.06026682]
+[ 0.93986716  0.06013284]
+[ 0.94004438  0.05995562]
+[ 0.94071018  0.05928982]
+[ 0.94184396  0.05815604]
+[ 0.94273278  0.05726722]
+[ 0.94295757  0.05704243]
+[ 0.94308703  0.05691297]
+[ 0.94313741  0.05686259]
+[ 0.94281741  0.05718259]
+[ 0.94212129  0.05787871]
+[ 0.94134651  0.05865349]
+[ 0.94084713  0.05915287]
+[ 0.94033029  0.05966971]
+[ 0.93976316  0.06023684]
+[ 0.93917939  0.06082061]
+[ 0.93862695  0.06137305]
+[ 0.93815966  0.06184034]
+[ 0.94060536  0.05939464]
+[ 0.94038586  0.05961414]
+[ 0.94023413  0.05976587]
+[ 0.94002784  0.05997216]
+[ 0.93979154  0.06020846]
+[ 0.93940571  0.06059429]
+[ 0.93892189  0.06107811]
+[ 0.93827922  0.06172078]
+[ 0.93744513  0.06255487]
+[ 0.93681079  0.06318921]
+[ 0.93603145  0.06396855]
+[ 0.93506298  0.06493702]
+[ 0.93422145  0.06577855]
+[ 0.93337304  0.06662696]
+[ 0.93312093  0.06687907]
+[ 0.93281675  0.06718325]
+[ 0.93259408  0.06740592]
+[ 0.93227868  0.06772132]
+[ 0.93203336  0.06796664]
+[ 0.93173107  0.06826893]
+[ 0.93129006  0.06870994]
+[ 0.93076892  0.06923108]
+0.943137414822 -202
+Total run time =  9.94496798515
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4495.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4495.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.458389043808
+Starting  merging superpixels ...
+merging superpixel done. run time =  6.91413879395e-06
+Starting  connected components ...
+Number of connected components =  486
+connected components done. run time =  0.0127909183502
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00395512580872
+Total number of segments remaining =  49
+segmentation done. run time =  0.493246793747
+Starting  saliency... ...
+saliency done. run time =  3.44542193413
+Starting  face detection... ...
+1
+face detection done. run time =  0.0543539524078
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.07259702682
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.521501064301
+Starting  composition... ...
+[ 1.          0.02407552]
+composition done. run time =  0.962460041046
+(1844,)
+(1, 1844)
+[[ 0.87827619  0.12172381]]
+[ 0.87711556  0.12288444]
+[ 0.87725532  0.12274468]
+[ 0.87727517  0.12272483]
+[ 0.8772274  0.1227726]
+[ 0.87770268  0.12229732]
+[ 0.87929514  0.12070486]
+[ 0.88151575  0.11848425]
+[ 0.88359122  0.11640878]
+[ 0.88543312  0.11456688]
+[ 0.88687931  0.11312069]
+[ 0.88860179  0.11139821]
+[ 0.88980996  0.11019004]
+[ 0.89043726  0.10956274]
+[ 0.89071979  0.10928021]
+[ 0.89001757  0.10998243]
+[ 0.88896072  0.11103928]
+[ 0.8908933  0.1091067]
+[ 0.89338502  0.10661498]
+[ 0.89381268  0.10618732]
+[ 0.8940095  0.1059905]
+[ 0.89322011  0.10677989]
+[ 0.89277068  0.10722932]
+[ 0.89369995  0.10630005]
+[ 0.89351122  0.10648878]
+[ 0.89162303  0.10837697]
+[ 0.88944665  0.11055335]
+[ 0.88894464  0.11105536]
+[ 0.88845217  0.11154783]
+[ 0.88817951  0.11182049]
+[ 0.88665655  0.11334345]
+[ 0.88361266  0.11638734]
+[ 0.88068209  0.11931791]
+[ 0.87948366  0.12051634]
+[ 0.87787266  0.12212734]
+[ 0.87647051  0.12352949]
+[ 0.87492401  0.12507599]
+[ 0.87373219  0.12626781]
+[ 0.87280657  0.12719343]
+[ 0.87159746  0.12840254]
+[ 0.8704068  0.1295932]
+[ 0.86912927  0.13087073]
+[ 0.86819186  0.13180814]
+[ 0.86692882  0.13307118]
+[ 0.86592888  0.13407112]
+[ 0.86538273  0.13461727]
+[ 0.86517173  0.13482827]
+0.894009500096 -166
+Total run time =  10.620360136
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4496.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4496.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.46875
+Starting  merging superpixels ...
+merging superpixel done. run time =  8.82148742676e-06
+Starting  connected components ...
+Number of connected components =  387
+connected components done. run time =  0.0128390789032
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00416398048401
+Total number of segments remaining =  48
+segmentation done. run time =  0.504728078842
+Starting  saliency... ...
+saliency done. run time =  3.46021389961
+Starting  face detection... ...
+1
+face detection done. run time =  0.0527770519257
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.07244300842
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.511375188828
+Starting  composition... ...
+[ 1.          0.02351888]
+composition done. run time =  0.939874887466
+(1844,)
+(1, 1844)
+[[ 0.8569796  0.1430204]]
+[ 0.8586837  0.1413163]
+[ 0.859404  0.140596]
+[ 0.86101596  0.13898404]
+[ 0.86354336  0.13645664]
+[ 0.86614425  0.13385575]
+[ 0.8689035  0.1310965]
+[ 0.87147755  0.12852245]
+[ 0.87381077  0.12618923]
+[ 0.87574684  0.12425316]
+[ 0.87699164  0.12300836]
+[ 0.87717133  0.12282867]
+[ 0.87588136  0.12411864]
+[ 0.8730636  0.1269364]
+[ 0.870005  0.129995]
+[ 0.8667459  0.1332541]
+[ 0.86565613  0.13434387]
+[ 0.86419708  0.13580292]
+[ 0.86136913  0.13863087]
+[ 0.85962258  0.14037742]
+[ 0.85947921  0.14052079]
+[ 0.85951482  0.14048518]
+[ 0.8593102  0.1406898]
+[ 0.85703254  0.14296746]
+[ 0.85484602  0.14515398]
+[ 0.85496571  0.14503429]
+[ 0.85556732  0.14443268]
+[ 0.8560362  0.1439638]
+[ 0.85644327  0.14355673]
+[ 0.85729292  0.14270708]
+[ 0.85823429  0.14176571]
+[ 0.85837109  0.14162891]
+[ 0.85735961  0.14264039]
+[ 0.85623952  0.14376048]
+[ 0.85702507  0.14297493]
+[ 0.859183  0.140817]
+[ 0.86001275  0.13998725]
+[ 0.86049413  0.13950587]
+[ 0.86146501  0.13853499]
+[ 0.86233883  0.13766117]
+[ 0.86320654  0.13679346]
+[ 0.86154152  0.13845848]
+[ 0.85756797  0.14243203]
+[ 0.85429531  0.14570469]
+[ 0.85182845  0.14817155]
+[ 0.84930837  0.15069163]
+[ 0.84669179  0.15330821]
+0.877171331864 -257
+Total run time =  10.5629730225
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4497.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4497.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.469120025635
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.96046447754e-06
+Starting  connected components ...
+Number of connected components =  616
+connected components done. run time =  0.0131058692932
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00407290458679
+Total number of segments remaining =  52
+segmentation done. run time =  0.504513025284
+Starting  saliency... ...
+saliency done. run time =  3.45029997826
+Starting  face detection... ...
+1
+face detection done. run time =  0.0593922138214
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.08017611504
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.520547866821
+Starting  composition... ...
+[ 1.          0.02135742]
+composition done. run time =  0.946283102036
+(1844,)
+(1, 1844)
+[[ 0.86763442  0.13236558]]
+[ 0.86457002  0.13542998]
+[ 0.86637682  0.13362318]
+[ 0.86811438  0.13188562]
+[ 0.86978893  0.13021107]
+[ 0.87140629  0.12859371]
+[ 0.87297305  0.12702695]
+[ 0.87577503  0.12422497]
+[ 0.87727524  0.12272476]
+[ 0.878738  0.121262]
+[ 0.88016244  0.11983756]
+[ 0.88157076  0.11842924]
+[ 0.88296851  0.11703149]
+[ 0.88409358  0.11590642]
+[ 0.88415563  0.11584437]
+[ 0.88516543  0.11483457]
+[ 0.88697251  0.11302749]
+[ 0.88864098  0.11135902]
+[ 0.88994306  0.11005694]
+[ 0.88985283  0.11014717]
+[ 0.89021716  0.10978284]
+[ 0.89003174  0.10996826]
+[ 0.8888259  0.1111741]
+[ 0.88710132  0.11289868]
+[ 0.88485599  0.11514401]
+[ 0.88109676  0.11890324]
+[ 0.87853777  0.12146223]
+[ 0.87585838  0.12414162]
+[ 0.87318107  0.12681893]
+[ 0.87203508  0.12796492]
+[ 0.87054595  0.12945405]
+[ 0.86901665  0.13098335]
+[ 0.86900471  0.13099529]
+[ 0.86877203  0.13122797]
+[ 0.8683404  0.1316596]
+[ 0.86750682  0.13249318]
+[ 0.86581882  0.13418118]
+[ 0.86426747  0.13573253]
+[ 0.86300908  0.13699092]
+[ 0.86168277  0.13831723]
+[ 0.86024312  0.13975688]
+[ 0.85866572  0.14133428]
+[ 0.85674216  0.14325784]
+[ 0.85447653  0.14552347]
+[ 0.85323389  0.14676611]
+[ 0.85246498  0.14753502]
+[ 0.8516493  0.1483507]
+0.89021716075 -179
+Total run time =  10.4754071236
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4498.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4498.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.460911035538
+Starting  merging superpixels ...
+merging superpixel done. run time =  4.05311584473e-06
+Starting  connected components ...
+Number of connected components =  630
+connected components done. run time =  0.0128629207611
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.0039541721344
+Total number of segments remaining =  48
+segmentation done. run time =  0.495805978775
+Starting  saliency... ...
+saliency done. run time =  3.45788192749
+Starting  face detection... ...
+1
+face detection done. run time =  0.0528910160065
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.03622198105
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.503783941269
+Starting  composition... ...
+[ 1.          0.02463867]
+composition done. run time =  0.965448141098
+(1844,)
+(1, 1844)
+[[ 0.87924294  0.12075706]]
+[ 0.88984445  0.11015555]
+[ 0.89123421  0.10876579]
+[ 0.89255501  0.10744499]
+[ 0.89382553  0.10617447]
+[ 0.89505225  0.10494775]
+[ 0.89686119  0.10313881]
+[ 0.89927001  0.10072999]
+[ 0.9006977  0.0993023]
+[ 0.90212298  0.09787702]
+[ 0.90347693  0.09652307]
+[ 0.9048096  0.0951904]
+[ 0.90619442  0.09380558]
+[ 0.90731986  0.09268014]
+[ 0.90748136  0.09251864]
+[ 0.9080589  0.0919411]
+[ 0.90858736  0.09141264]
+[ 0.90898089  0.09101911]
+[ 0.9081097  0.0918903]
+[ 0.90638429  0.09361571]
+[ 0.90465123  0.09534877]
+[ 0.90264672  0.09735328]
+[ 0.90230774  0.09769226]
+[ 0.90222482  0.09777518]
+[ 0.90097985  0.09902015]
+[ 0.89964903  0.10035097]
+[ 0.89957819  0.10042181]
+[ 0.89913798  0.10086202]
+[ 0.89838602  0.10161398]
+[ 0.89727713  0.10272287]
+[ 0.89432531  0.10567469]
+[ 0.89113689  0.10886311]
+[ 0.88873404  0.11126596]
+[ 0.8859813  0.1140187]
+[ 0.88288842  0.11711158]
+[ 0.87950921  0.12049079]
+[ 0.87814114  0.12185886]
+[ 0.876271  0.123729]
+[ 0.87429899  0.12570101]
+[ 0.87183687  0.12816313]
+[ 0.86912139  0.13087861]
+[ 0.86621284  0.13378716]
+[ 0.86435133  0.13564867]
+[ 0.86182651  0.13817349]
+[ 0.86013604  0.13986396]
+[ 0.8606839  0.1393161]
+[ 0.86200409  0.13799591]
+0.908980894358 -217
+Total run time =  10.6320309639
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4499.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4499.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.467497110367
+Starting  merging superpixels ...
+merging superpixel done. run time =  8.10623168945e-06
+Starting  connected components ...
+Number of connected components =  589
+connected components done. run time =  0.0132629871368
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00559091567993
+Total number of segments remaining =  52
+segmentation done. run time =  0.505398035049
+Starting  saliency... ...
+saliency done. run time =  3.45806193352
+Starting  face detection... ...
+1
+face detection done. run time =  0.0522990226746
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.04549503326
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.506675958633
+Starting  composition... ...
+[ 1.          0.02937826]
+composition done. run time =  0.995269060135
+(1844,)
+(1, 1844)
+[[ 0.87993845  0.12006155]]
+[ 0.89185576  0.10814424]
+[ 0.89306974  0.10693026]
+[ 0.89425273  0.10574727]
+[ 0.89540959  0.10459041]
+[ 0.89664353  0.10335647]
+[ 0.89887203  0.10112797]
+[ 0.90087174  0.09912826]
+[ 0.90191709  0.09808291]
+[ 0.90295923  0.09704077]
+[ 0.90402999  0.09597001]
+[ 0.90516982  0.09483018]
+[ 0.90662118  0.09337882]
+[ 0.90788817  0.09211183]
+[ 0.90929723  0.09070277]
+[ 0.91065772  0.08934228]
+[ 0.91190812  0.08809188]
+[ 0.91278618  0.08721382]
+[ 0.91258269  0.08741731]
+[ 0.91189971  0.08810029]
+[ 0.91121865  0.08878135]
+[ 0.90989056  0.09010944]
+[ 0.90744831  0.09255169]
+[ 0.90454388  0.09545612]
+[ 0.90097428  0.09902572]
+[ 0.89760339  0.10239661]
+[ 0.89528323  0.10471677]
+[ 0.89303745  0.10696255]
+[ 0.89131383  0.10868617]
+[ 0.89012955  0.10987045]
+[ 0.88783618  0.11216382]
+[ 0.88528832  0.11471168]
+[ 0.88297051  0.11702949]
+[ 0.88160686  0.11839314]
+[ 0.88099437  0.11900563]
+[ 0.87997071  0.12002929]
+[ 0.87844414  0.12155586]
+[ 0.87813122  0.12186878]
+[ 0.87906054  0.12093946]
+[ 0.8798383  0.1201617]
+[ 0.88040335  0.11959665]
+[ 0.87985004  0.12014996]
+[ 0.87855316  0.12144684]
+[ 0.87773798  0.12226202]
+[ 0.87734356  0.12265644]
+[ 0.87692891  0.12307109]
+0.912786181121 -287
+Total run time =  10.7375469208
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4516.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4516.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.422070026398
+Starting  merging superpixels ...
+merging superpixel done. run time =  4.05311584473e-06
+Starting  connected components ...
+Number of connected components =  592
+connected components done. run time =  0.011442899704
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00355410575867
+Total number of segments remaining =  50
+segmentation done. run time =  0.453426122665
+Starting  saliency... ...
+saliency done. run time =  3.14918398857
+Starting  face detection... ...
+0
+face detection done. run time =  0.0530829429626
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.958328962326
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.437592983246
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.749410867691
+(1844,)
+(1, 1844)
+[[ 0.60414717  0.39585283]]
+Total run time =  5.81878185272
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4517.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4517.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.437425851822
+Starting  merging superpixels ...
+merging superpixel done. run time =  8.10623168945e-06
+Starting  connected components ...
+Number of connected components =  510
+connected components done. run time =  0.0128121376038
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.004075050354
+Total number of segments remaining =  49
+segmentation done. run time =  0.473395824432
+Starting  saliency... ...
+saliency done. run time =  3.45316290855
+Starting  face detection... ...
+1
+face detection done. run time =  0.0554327964783
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  1.03408503532
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.513190984726
+Starting  composition... ...
+[ 1.          0.02407552]
+composition done. run time =  0.956423997879
+(1844,)
+(1, 1844)
+[[ 0.81724357  0.18275643]]
+[ 0.82173551  0.17826449]
+[ 0.82158991  0.17841009]
+[ 0.82125152  0.17874848]
+[ 0.82074206  0.17925794]
+[ 0.82082  0.17918]
+[ 0.82155798  0.17844202]
+[ 0.82133117  0.17866883]
+[ 0.82079925  0.17920075]
+[ 0.82054982  0.17945018]
+[ 0.82055945  0.17944055]
+[ 0.820772  0.179228]
+[ 0.8199518  0.1800482]
+[ 0.81724357  0.18275643]
+[ 0.81592013  0.18407987]
+[ 0.81465427  0.18534573]
+[ 0.81334207  0.18665793]
+[ 0.81191605  0.18808395]
+[ 0.81074684  0.18925316]
+[ 0.80794091  0.19205909]
+[ 0.80642654  0.19357346]
+[ 0.80729189  0.19270811]
+[ 0.80877539  0.19122461]
+[ 0.81052523  0.18947477]
+[ 0.8134265  0.1865735]
+[ 0.81625256  0.18374744]
+[ 0.82068612  0.17931388]
+[ 0.82538613  0.17461387]
+[ 0.8277059  0.1722941]
+[ 0.82866134  0.17133866]
+[ 0.82996011  0.17003989]
+[ 0.82991245  0.17008755]
+[ 0.82886163  0.17113837]
+[ 0.82785281  0.17214719]
+[ 0.82670296  0.17329704]
+[ 0.82620242  0.17379758]
+[ 0.82573925  0.17426075]
+[ 0.82495653  0.17504347]
+[ 0.82488828  0.17511172]
+[ 0.82615952  0.17384048]
+[ 0.82774001  0.17225999]
+[ 0.82913208  0.17086792]
+[ 0.82820443  0.17179557]
+[ 0.82723157  0.17276843]
+[ 0.82657756  0.17342244]
+[ 0.82555923  0.17444077]
+[ 0.82380542  0.17619458]
+0.829960105523 204
+Total run time =  10.2325189114
+/home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4518.JPG
+Image source :  /home/vyzuer/Project/Flickr-code/pos_results//ImageDB/IMG_4518.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.433711051941
+Starting  merging superpixels ...
+merging superpixel done. run time =  8.10623168945e-06
+Starting  connected components ...
+Number of connected components =  572
+connected components done. run time =  0.0133488178253
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00406098365784
+Total number of segments remaining =  51
+segmentation done. run time =  0.469581127167
+Starting  saliency... ...
+saliency done. run time =  3.25851893425
+Starting  face detection... ...
+2
+face detection done. run time =  0.0534720420837
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.950150966644
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.437465906143
+Starting  composition... ...
+[ 2.          0.02636719]
+composition done. run time =  0.966636896133
+(1844,)
+(1, 1844)
+[[ 0.76514717  0.23485283]]
+[ 0.77373924  0.22626076]
+[ 0.77244209  0.22755791]
+[ 0.77035211  0.22964789]
+[ 0.76843411  0.23156589]
+[ 0.7666228  0.2333772]
+[ 0.76508493  0.23491507]
+[ 0.76411015  0.23588985]
+[ 0.76384561  0.23615439]
+[ 0.76291229  0.23708771]
+[ 0.76179053  0.23820947]
+[ 0.7616529  0.2383471]
+[ 0.76140207  0.23859793]
+[ 0.762885  0.237115]
+[ 0.76483493  0.23516507]
+[ 0.76577325  0.23422675]
+[ 0.76661693  0.23338307]
+[ 0.76663677  0.23336323]
+[ 0.76620064  0.23379936]
+[ 0.76526794  0.23473206]
+[ 0.76765939  0.23234061]
+[ 0.77093888  0.22906112]
+[ 0.7753147  0.2246853]
+[ 0.77978362  0.22021638]
+[ 0.78415841  0.21584159]
+[ 0.78635127  0.21364873]
+[ 0.78890429  0.21109571]
+[ 0.792367  0.207633]
+[ 0.79481315  0.20518685]
+[ 0.79495098  0.20504902]
+[ 0.79316587  0.20683413]
+[ 0.79102677  0.20897323]
+[ 0.78536849  0.21463151]
+[ 0.77911612  0.22088388]
+[ 0.77231619  0.22768381]
+[ 0.76459714  0.23540286]
+[ 0.75641115  0.24358885]
+[ 0.75118081  0.24881919]
+[ 0.74670998  0.25329002]
+[ 0.7444423  0.2555577]
+0.794950983147 278
+Total run time =  10.3716077805

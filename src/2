@@ -1,0 +1,81 @@
+    def __find_composition(self, grid_size = (10, 10), block_size = (5, 5)):
+        grid_height, grid_width = grid_size
+        block_height, block_width = block_size
+
+        f_map_height = grid_height*block_height
+        f_map_width = grid_width*block_width
+
+        feature_map = np.zeros(shape=(f_map_height, f_map_width))
+        feature_vector = np.zeros(f_map_height*f_map_width)
+        
+        # number of segments, some of them might not be present
+        seg_map = self.segment_map2
+        saliency_list = self.saliency_list
+        faces = self.faces
+        # total segments, +1 for faces
+        num_segments = len(saliency_list)
+
+        img_height, img_width = seg_map.shape
+
+        # add face segment to segment map
+        face_seg_id = num_segments - 1
+        seg_map = self.__modify_segment_map(seg_map, faces, face_seg_id)
+
+        # one slot was leftover for face segments
+        # saliency_list[face_seg_id] = 1.0
+        saliency_list[face_seg_id] = np.max(saliency_list)
+
+        # cell size for a image
+        x_step = 1.0*img_height/f_map_height
+        y_step = 1.0*img_width/f_map_width
+
+        # block steps
+        bx_step = 1.0*img_height/grid_height
+        by_step = 1.0*img_width/grid_width
+
+        # current location of our spanning
+        pix_x = 0.0
+        pix_y = 0.0
+        block_x = 0.0
+        block_y = 0.0
+        cnt = 0
+        for i in range(grid_height):
+            pix_x = block_x
+            block_y = 0.0
+            for j in range(grid_width):
+                pix_x = block_x
+                pix_y = block_y
+                for k in range(block_height):
+                    x_0 = pix_x
+                    pix_x += x_step
+
+                    pix_y = block_y
+                    for l in range(block_width):
+                        y_0 = pix_y
+                        pix_y += y_step
+                        saliency_sum = 0.0
+                        for m in range(int(x_0), int(pix_x)):
+                            for n in range(int(y_0), int(pix_y)):
+                                # print i, j, k, l, m, n
+                                seg_id = seg_map[m][n]
+                                saliency_sum += saliency_list[seg_id]
+
+                        saliency_norm = saliency_sum/(x_step*y_step)
+                        # saliency_norm = saliency_sum/((pix_x - x_0)*(pix_y - y_0))
+                        # print saliency_norm
+                        ii = i*block_height + k
+                        jj = j*block_width + l
+                        feature_map[ii][jj] = saliency_norm
+                        feature_vector[cnt] = saliency_norm
+                        cnt +=1
+                
+                block_y += by_step
+            
+            block_x += bx_step
+
+
+
+        return feature_map, feature_vector
+
+
+

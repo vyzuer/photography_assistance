@@ -1,0 +1,45 @@
+../testing/images_1/17.jpg
+Image source :  ../testing/images_1/17.jpg
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.487412929535
+Starting  merging superpixels ...
+merging superpixel done. run time =  3.81469726562e-06
+Starting  connected components ...
+Number of connected components =  1795
+connected components done. run time =  0.45180606842
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.350466966629
+Total number of segments remaining =  56
+segmentation done. run time =  1.30929398537
+Starting  saliency... ...
+saliency done. run time =  3.13147306442
+Starting  face detection... ...
+face detection done. run time =  0.0644299983978
+Starting  post processing... ...
+[ 0.          0.18674402  0.15182882  0.11120997  0.04464614  0.09250367
+  0.10925647  0.05067404  0.13375727  0.01251227  0.38327493  0.18511481
+  0.14089873  0.17082971  0.03095419  0.29398422  0.05657322  0.03364681
+  0.15865561  0.51539726  0.54081319  0.10453804  0.47247601  0.65619272
+  0.66826245  0.24044803  0.65398605  0.18384524  0.33187693  0.42272463
+  0.05552506  1.          0.63387407  0.0548571   0.08747895  0.05818895
+  0.06825731  0.19558717  0.05252207  0.64843068  0.10706867  0.0346902
+  0.05478645  0.02826944  0.15057036  0.13400294  0.0991053   0.03757765
+  0.11520696  0.02552183  0.42078813  0.13438948  0.02087627  0.28809791
+  0.02397918  0.01738182  0.        ]
+post processing done. run time =  0.873012065887
+Starting  composition... ...
+Traceback (most recent call last):
+  File "compile.py", line 31, in <module>
+    testing(db_src, dump_path)
+  File "compile.py", line 25, in testing
+    generateDB(infile, dump_path)
+  File "compile.py", line 12, in generateDB
+    my_object = SalientObject.SalientObjectDetection(image_src)
+  File "/home/yogesh/Copy/Flickr-code/PhotographyAssistance/src/SalientObject.py", line 66, in __init__
+    self.composition = self.__find_composition(grid_size = (10, 10), block_size = (5, 5))
+  File "/home/yogesh/Copy/Flickr-code/PhotographyAssistance/src/SalientObject.py", line 111, in __find_composition
+    seg_map = self.segment_map2
+AttributeError: SalientObjectDetection instance has no attribute 'segment_map2'
+Exception TypeError: TypeError("'NoneType' object is not callable",) in <bound method UmfpackContext.new_del of <scipy.sparse.linalg.dsolve.umfpack.umfpack.UmfpackContext object at 0x7fca777ab5d0>> ignored

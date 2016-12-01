@@ -1,0 +1,144 @@
+arcde
+/mnt/windows/DataSet-YsR/arcde/results/res_comp.1404197267.7
+(5500, 250)
+(5500,)
+(3803, 250)
+Score :  [ 0.77485929  0.78236398  0.74859287  0.75234522  0.75797373  0.74484053
+  0.76923077  0.77861163  0.72795497  0.77298311]
+Accuracy: 0.76 (+/- 0.01)
+1.0
+0.753724802805
+Accuracy : 0.753724802805
+Average Precision : 0.568054641382
+F1 Score : 0.180758017493
+Precision : 0.794871794872
+Recall : 0.101973684211
+ROC : 0.546207869584
+(array([ 0.7522686 ,  0.79487179]), array([ 0.99044205,  0.10197368]), array([ 0.85507994,  0.18075802]), array([837, 304]))
+colognecathedral
+/mnt/windows/DataSet-YsR/colognecathedral/results/res_comp.1404197332.93
+(6056, 250)
+(6056,)
+(4315, 250)
+Score :  [ 0.83940397  0.85099338  0.82615894  0.82615894  0.85430464  0.82119205
+  0.83278146  0.85099338  0.83774834  0.82450331]
+Accuracy: 0.84 (+/- 0.01)
+1.0
+0.811583011583
+Accuracy : 0.811583011583
+Average Precision : 0.43489970807
+F1 Score : 0.031746031746
+Precision : 0.666666666667
+Recall : 0.0162601626016
+ROC : 0.507176792454
+(array([ 0.81225756,  0.66666667]), array([ 0.99809342,  0.01626016]), array([ 0.8956373 ,  0.03174603]), array([1049,  246]))
+gatewayofindia
+/mnt/windows/DataSet-YsR/gatewayofindia/results/res_comp.1404197400.65
+(1536, 250)
+(1536,)
+(929, 250)
+Score :  [ 0.78461538  0.8         0.81538462  0.78461538  0.84615385  0.76153846
+  0.80769231  0.83846154  0.80769231  0.71538462]
+Accuracy: 0.80 (+/- 0.02)
+1.0
+0.824372759857
+Accuracy : 0.824372759857
+Average Precision : 0.911870503597
+F1 Score : 0.903353057199
+Precision : 0.823741007194
+Recall : 1.0
+ROC : 0.51
+(array([ 1.        ,  0.82374101]), array([ 0.02,  1.  ]), array([ 0.03921569,  0.90335306]), array([ 50, 229]))
+indiagate
+/mnt/windows/DataSet-YsR/indiagate/results/res_comp.1404197409.68
+(1498, 250)
+(1498,)
+(1004, 250)
+Score :  [ 0.62411348  0.68794326  0.68085106  0.62411348  0.70212766  0.70212766
+  0.67375887  0.63120567  0.73049645  0.63120567]
+Accuracy: 0.67 (+/- 0.02)
+1.0
+0.672185430464
+Accuracy : 0.672185430464
+Average Precision : 0.811463407103
+F1 Score : 0.768149882904
+Precision : 0.628352490421
+Recall : 0.987951807229
+ROC : 0.637358256556
+(array([ 0.95121951,  0.62835249]), array([ 0.28676471,  0.98795181]), array([ 0.44067797,  0.76814988]), array([136, 166]))
+leaningtower
+/mnt/windows/DataSet-YsR/leaningtower/results/res_comp.1404197418.92
+(5133, 250)
+(5133,)
+(3668, 250)
+Score :  [ 0.73346304  0.76070039  0.75486381  0.74902724  0.74708171  0.74513619
+  0.74124514  0.70428016  0.75291829  0.71984436]
+Accuracy: 0.74 (+/- 0.01)
+1.0
+0.738419618529
+Accuracy : 0.738419618529
+Average Precision : 0.863935939626
+F1 Score : 0.842105263158
+Precision : 0.728652751423
+Recall : 0.997402597403
+ROC : 0.566677129517
+(array([ 0.95744681,  0.72865275]), array([ 0.13595166,  0.9974026 ]), array([ 0.23809524,  0.84210526]), array([331, 770]))
+liberty
+/mnt/windows/DataSet-YsR/liberty/results/res_comp.1404197472.46
+(5667, 250)
+(5667,)
+(3398, 250)
+Score :  [ 0.68697479  0.72268908  0.70378151  0.69747899  0.70168067  0.72058824
+  0.68277311  0.70168067  0.69747899  0.66596639]
+Accuracy: 0.70 (+/- 0.01)
+1.0
+0.710784313725
+Accuracy : 0.710784313725
+Average Precision : 0.849105514378
+F1 Score : 0.818684695759
+Precision : 0.70775770457
+Recall : 0.97084548105
+ROC : 0.573746093818
+(array([ 0.74683544,  0.7077577 ]), array([ 0.17664671,  0.97084548]), array([ 0.28571429,  0.8186847 ]), array([334, 686]))
+merlion
+/mnt/windows/DataSet-YsR/merlion/results/res_comp.1404197524.59
+(3385, 250)
+(482,)
+Traceback (most recent call last):
+  File "bin_classify.py", line 248, in <module>
+    learn_composition(db, location, dump_dir, grid_search=False)
+  File "bin_classify.py", line 157, in learn_composition
+    X, Y = remove_average_photographs(data, target)
+  File "bin_classify.py", line 83, in remove_average_photographs
+    if target[i] < 0.20:
+IndexError: index out of bounds
+taj
+/mnt/windows/DataSet-YsR/taj/results/res_comp.1404197542.27
+Traceback (most recent call last):
+  File "bin_classify.py", line 248, in <module>
+    learn_composition(db, location, dump_dir, grid_search=False)
+  File "bin_classify.py", line 150, in learn_composition
+    data, target = read_features(db, location, dump_dir)
+  File "bin_classify.py", line 119, in read_features
+    X = np.hstack([X, X1])
+  File "/usr/lib/python2.7/dist-packages/numpy/core/shape_base.py", line 277, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input array dimensions except for the concatenation axis must match exactly
+vatican
+/mnt/windows/DataSet-YsR/vatican/results/res_comp.1404197543.33
+(4964, 250)
+(4964,)
+(4543, 250)
+Score :  [ 0.68553459  0.66194969  0.64308176  0.65566038  0.69339623  0.68396226
+  0.66981132  0.65880503  0.68710692  0.67610063]
+Accuracy: 0.67 (+/- 0.01)
+1.0
+0.673514306676
+Accuracy : 0.673514306676
+Average Precision : 0.732784714447
+F1 Score : 0.613379669852
+Precision : 0.704590818363
+Recall : 0.543076923077
+ROC : 0.667751645269
+(array([ 0.65545244,  0.70459082]), array([ 0.79242637,  0.54307692]), array([ 0.71746032,  0.61337967]), array([713, 650]))
+

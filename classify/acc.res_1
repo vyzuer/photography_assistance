@@ -1,0 +1,8 @@
+yogesh@ysr-pc:~/Copy/Flickr-code/PhotographyAssistance/classify$ python b_classify.py 
+(667, 225)
+Score :  [ 0.61111111  0.62222222  0.62777778  0.58888889  0.62777778  0.60555556
+  0.64444444  0.54444444  0.57777778  0.63333333]
+Accuracy: 0.61 (+/- 0.01)
+1.0
+0.65671641791
+

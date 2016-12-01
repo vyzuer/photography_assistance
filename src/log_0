@@ -1,0 +1,864 @@
+/usr/local/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:2499: VisibleDeprecationWarning: `rank` is deprecated; use the `ndim` attribute or function instead. To find the rank of a matrix see `numpy.linalg.matrix_rank`.
+  VisibleDeprecationWarning)
+/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4452.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4452.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.480469942093
+Starting  merging superpixels ...
+merging superpixel done. run time =  8.10623168945e-06
+Starting  connected components ...
+Number of connected components =  796
+connected components done. run time =  0.013081073761
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00178599357605
+Total number of segments remaining =  50
+segmentation done. run time =  0.510715961456
+Starting  saliency... ...
+saliency done. run time =  1.76526594162
+Starting  face detection... ...
+1
+face detection done. run time =  0.0612418651581
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.431756019592
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.237718820572
+Starting  composition... ...
+[ 1.          0.01782552]
+composition done. run time =  0.56147813797
+(1844,)
+(1, 1844)
+[[ 0.92292256  0.07707744]]
+[ 13.54460142]
+[ 5.27676669]
+[-0.54900023]
+[-10.04200145]
+1054
+5.3
+13.5446014181
+247
+Total run time =  6.08662104607
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4453.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4453.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.50256896019
+Starting  merging superpixels ...
+merging superpixel done. run time =  4.76837158203e-06
+Starting  connected components ...
+Number of connected components =  737
+connected components done. run time =  0.0127320289612
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00175714492798
+Total number of segments remaining =  46
+segmentation done. run time =  0.531960964203
+Starting  saliency... ...
+saliency done. run time =  1.78735208511
+Starting  face detection... ...
+0
+face detection done. run time =  0.0527210235596
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.431072235107
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.215409994125
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.513300180435
+(1844,)
+(1, 1844)
+[[ 0.80559438  0.19440562]]
+[ 13.55395674]
+[ 5.7377742]
+[-0.47879405]
+[-9.58686231]
+769
+5.7
+13.5539567445
+207
+Total run time =  3.58289313316
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4454.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4454.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.441441059113
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.00679016113e-06
+Starting  connected components ...
+Number of connected components =  918
+connected components done. run time =  0.0121099948883
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00166201591492
+Total number of segments remaining =  46
+segmentation done. run time =  0.469966173172
+Starting  saliency... ...
+saliency done. run time =  1.66205596924
+Starting  face detection... ...
+1
+face detection done. run time =  0.0570299625397
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.397492170334
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.209571838379
+Starting  composition... ...
+[ 1.          0.02520833]
+composition done. run time =  0.54859995842
+(1844,)
+(1, 1844)
+[[ 0.7374896  0.2625104]]
+[ 14.2250876]
+[ 6.06523791]
+[-0.60341751]
+[-10.39478276]
+1346
+6.1
+14.2250875973
+261
+Total run time =  6.12172317505
+/home/vyzuer/windows/Project/Flickr-/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+code/pos_results/param//ImageDB/IMG_4455.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4455.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.443330049515
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.96046447754e-06
+Starting  connected components ...
+Number of connected components =  745
+connected components done. run time =  0.0125391483307
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00174903869629
+Total number of segments remaining =  50
+segmentation done. run time =  0.472393989563
+Starting  saliency... ...
+saliency done. run time =  1.70669794083
+Starting  face detection... ...
+1
+face detection done. run time =  0.0545890331268
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.430556058884
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.221846818924
+Starting  composition... ...
+[ 1.          0.00255208]
+composition done. run time =  0.524749040604
+(1844,)
+(1, 1844)
+[[ 0.79831703  0.20168297]]
+[ 14.18910419]
+[ 5.70825824]
+[-0.54675732]
+[-10.02746088]
+1043
+5.7
+14.1891041853
+181
+Total run time =  5.44379711151
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4456.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4456.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.476477861404
+Starting  merging superpixels ...
+merging superpixel done. run time =  6.91413879395e-06
+Starting  connected components ...
+Number of connected components =  793
+connected components done. run time =  0.0136210918427
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00186991691589
+Total number of segments remaining =  55
+segmentation done. run time =  0.507886171341
+Starting  saliency... ...
+saliency done. run time =  1.85815000534
+Starting  face detection... ...
+1
+face detection done. run time =  0.0602400302887
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.42630314827
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.229413986206
+Starting  composition... ...
+[ 1.          0.00949219]
+composition done. run time =  0.541977882385
+(1844,)
+(1, 1844)
+[[ 0.82664861  0.17335139]]
+[ 14.05290869]
+[ 5.92408025]
+[-0.57825095]
+[-10.2316307]
+1202
+5.9
+14.0529086941
+246
+Total run time =  5.88249993324
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4457.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4457.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.470252037048
+Starting  merging superpixels ...
+merging superpixel done. run time =  7.86781311035e-06
+Starting  connected components ...
+Number of connected components =  1045
+connected components done. run time =  0.0130431652069
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00186991691589
+Total number of segments remaining =  47
+segmentation done. run time =  0.500683784485
+Starting  saliency... ...
+saliency done. run time =  1.6961979866
+Starting  face detection... ...
+2
+face detection done. run time =  0.0594019889832
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.38623380661
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.218206882477
+Starting  composition... ...
+[ 2.          0.01020833]
+composition done. run time =  0.547539949417
+(1844,)
+(1, 1844)
+[[ 0.82291605  0.17708395]]
+[ 13.00000783]
+[ 5.18310257]
+[-0.42286765]
+[-9.22429752]
+598
+5.2
+13.000007829
+197
+Total run time =  5.85369205475
+/home/vyzuer/windows/Project/Flickr-code/pos_results/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+/param//ImageDB/IMG_4466.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4466.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.473712921143
+Starting  merging superpixels ...
+merging superpixel done. run time =  8.10623168945e-06
+Starting  connected components ...
+Number of connected components =  1028
+connected components done. run time =  0.0129909515381
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00175213813782
+Total number of segments remaining =  52
+segmentation done. run time =  0.504153013229
+Starting  saliency... ...
+saliency done. run time =  1.79028987885
+Starting  face detection... ...
+2
+face detection done. run time =  0.0682260990143
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.429150104523
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.228470087051
+Starting  composition... ...
+[ 2.          0.01595052]
+composition done. run time =  0.614931106567
+(1844,)
+(1, 1844)
+[[ 0.74658843  0.25341157]]
+[ 13.17553607]
+[ 5.10087248]
+[-0.44634597]
+[-9.37650492]
+664
+5.1
+13.1755360726
+186
+Total run time =  6.49425888062
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4471.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4471.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.487556934357
+Starting  merging superpixels ...
+merging superpixel done. run time =  8.10623168945e-06
+Starting  connected components ...
+Number of connected components =  764
+connected components done. run time =  0.0137410163879
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00197100639343
+Total number of segments remaining =  49
+segmentation done. run time =  0.519450187683
+Starting  saliency... ...
+saliency done. run time =  1.77098298073
+Starting  face detection... ...
+0
+face detection done. run time =  0.0598251819611
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.447880983353
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.237270116806
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.535721063614
+(1844,)
+(1, 1844)
+[[ 0.80462165  0.19537835]]
+[ 12.43324182]
+[ 4.0635571]
+[-0.42013265]
+[-9.2065668]
+590
+4.1
+12.4332418218
+179
+Total run time =  3.62254786491
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4472.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4472.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.474691867828
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.00679016113e-06
+Starting  connected components ...
+Number of connected components =  1031
+connected components done. run time =  0.0123779773712
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00171303749084
+Total number of segments remaining =  50
+segmentation done. run time =  0.503934144974
+Starting  saliency... ...
+saliency done. run time =  2.33246684074
+Starting  face detection... ...
+0
+face detection done. run time =  0.0675799846649
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.428859949112
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.204130172729
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.533071041107
+(1844,)
+(1, 1844)
+[[ 0.64691542  0.35308458]]
+[ 12.37350948]
+[ 5.05110407]
+[-0.31892982]
+[-8.55047975]
+374
+5.1
+12.3735094796
+183
+Total run time =  4.1262819767
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4473.JPG
+Image source :  /hom/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+e/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4473.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.464711904526
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.00679016113e-06
+Starting  connected components ...
+Number of connected components =  535
+connected components done. run time =  0.0133800506592
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00180697441101
+Total number of segments remaining =  49
+segmentation done. run time =  0.495185852051
+Starting  saliency... ...
+saliency done. run time =  1.77190494537
+Starting  face detection... ...
+0
+face detection done. run time =  0.0728170871735
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.446564912796
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.217613935471
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.518522024155
+(1844,)
+(1, 1844)
+[[ 0.85121469  0.14878531]]
+[ 13.13610137]
+[ 5.03607093]
+[-0.43024032]
+[-9.27209376]
+618
+5.0
+13.1361013705
+171
+Total run time =  3.57557082176
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4474.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4474.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.500078201294
+Starting  merging superpixels ...
+merging superpixel done. run time =  7.86781311035e-06
+Starting  connected components ...
+Number of connected components =  1173
+connected components done. run time =  0.0131640434265
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00186109542847
+Total number of segments remaining =  49
+segmentation done. run time =  0.5311460495
+Starting  saliency... ...
+saliency done. run time =  1.7766699791
+Starting  face detection... ...
+0
+face detection done. run time =  0.0629980564117
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.422866106033
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.200005054474
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.511950969696
+(1844,)
+(1, 1844)
+[[ 0.85537459  0.14462541]]
+[ 11.86334648]
+[ 4.65962967]
+[-0.23391457]
+[-7.99933509]
+255
+4.7
+11.8633464791
+151
+Total run time =  3.5591199398
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4475.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4475.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.445960998535
+Starting  merging superpixels ...
+merging superpixel done. run time =  8.10623168945e-06
+Starting  connected components ...
+Number of connected components =  1408
+connected components done. run time =  0.0129809379578
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00184798240662
+Total number of segments remaining =  51
+segmentation done. run time =  0.47681593895
+Starting  saliency... ...
+saliency done. run time =  1.68843603134
+Starting  face detection... ...
+0
+face detection done. run time =  0.0621500015259
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.382971048355
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.197576999664
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.500687122345
+(1844,)
+(1, 1844)
+[[ 0.73888162  0.26111838]]
+[ 12.00987644]
+[ 4.67714876]
+[-0.2610677]
+[-8.17536591]
+289
+4.7
+12.0098764442
+154
+Total run time =  3.36167693138
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4476.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+4476.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.495723962784
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.96046447754e-06
+Starting  connected components ...
+Number of connected components =  1279
+connected components done. run time =  0.0130920410156
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00184488296509
+Total number of segments remaining =  49
+segmentation done. run time =  0.527184009552
+Starting  saliency... ...
+saliency done. run time =  1.82588219643
+Starting  face detection... ...
+0
+face detection done. run time =  0.0650279521942
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.403370857239
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.205769062042
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.534826993942
+(1844,)
+(1, 1844)
+[[ 0.82200657  0.17799343]]
+[ 12.23810626]
+[ 4.84635173]
+[-0.31560438]
+[-8.52892133]
+369
+4.8
+12.2381062571
+175
+Total run time =  3.61505699158
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4477.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4477.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.562753915787
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.00679016113e-06
+Starting  connected components ...
+Number of connected components =  1107
+connected components done. run time =  0.013151884079
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.0018150806427
+Total number of segments remaining =  49
+segmentation done. run time =  0.594410896301
+Starting  saliency... ...
+saliency done. run time =  1.98088383675
+Starting  face detection... ...
+0
+face detection done. run time =  0.0678038597107
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.416807889938
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.212202072144
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.55099105835
+(1844,)
+(1, 1844)
+[[ 0.72762793  0.27237207]]
+[ 12.94881462]
+[ 4.97057128]
+[-0.38077991]
+[-8.95144721]
+495
+5.0
+12.9488146152
+156
+Total run time =  3.88077306747
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4478.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4478.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.47639298439
+Starting  merging superpixels ...
+merging superpixel done. run time =  8.10623168945e-06
+Starting  connected components ...
+Number of connected components =  1012
+connected components done. run time =  0.013603925705
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00191712379456
+Total number of segments remaining =  50
+segmentation done. run time =  0.508287906647
+Starting  saliency... ...
+saliency done. run time =  1.78168797493
+Starting  face detection... ...
+0
+face detection done. run time =  0.0674409866333
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.414153814316
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.212526082993
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.523247003555
+(1844,)
+(1, 1844)
+[[ 0.75337953  0.24662047]]
+[ 12.90036389]
+[ 4.78613051]
+[-0.37071923]
+[-8.8862249]
+473
+4.8
+12.900363892
+142
+Total run time =  3.55981278419
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4479.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4479.JPG
+Starting  segmentation... ...
+Starting  superpixel clusteri/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+ng ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.477663040161
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.00679016113e-06
+Starting  connected components ...
+Number of connected components =  1698
+connected components done. run time =  0.013514995575
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00190210342407
+Total number of segments remaining =  47
+segmentation done. run time =  0.509231090546
+Starting  saliency... ...
+saliency done. run time =  1.76482892036
+Starting  face detection... ...
+0
+face detection done. run time =  0.0609300136566
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.390695095062
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.215525865555
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.531162023544
+(1844,)
+(1, 1844)
+[[ 0.78815996  0.21184004]]
+[ 11.62510074]
+[ 4.60234226]
+[-0.24153895]
+[-8.04876309]
+264
+4.6
+11.6251007426
+176
+Total run time =  3.54178285599
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4480.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4480.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.483367919922
+Starting  merging superpixels ...
+merging superpixel done. run time =  7.15255737305e-06
+Starting  connected components ...
+Number of connected components =  1309
+connected components done. run time =  0.013279914856
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00185394287109
+Total number of segments remaining =  53
+segmentation done. run time =  0.514745950699
+Starting  saliency... ...
+saliency done. run time =  1.77888607979
+Starting  face detection... ...
+1
+face detection done. run time =  0.0614011287689
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.411910057068
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.209810018539
+Starting  composition... ...
+[ 1.         0.0084668]
+composition done. run time =  0.591479063034
+(1844,)
+(1, 1844)
+[[ 0.76602318  0.23397682]]
+[ 11.75236194]
+[ 5.70671329]
+[-0.12431802]
+[-7.28883248]
+156
+5.7
+11.75236194
+146
+Total run time =  5.88538002968
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4485.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4485.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.459273099899
+Starting  merging superpixels ...
+merging superpixel done. run time =  7.15255737305e-06
+Starting  connected components ...
+Number of connected components =  633
+connected components done. run time =  0.0126461982727
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00186586380005
+Total number of segments remaining =  48
+segmentation done. run time =  0.489223957062
+Starting  saliency... ...
+saliency done. run time =  1.76756310463
+Starting  face detection... ...
+1
+face detection done. run time =  0.0573670864105
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.435123205185
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.217356920242
+Starting  composition... ...
+[ 1.          0.01831055]
+composition done. run time =  0.595249891281
+(1844,)
+(1, 1844)
+[[ 0.74918312  0.25081688]]
+[ 12.67164679]
+[ 6.74494103]
+[-0.28226906]
+[-8.312812]
+317
+6.7
+12.6716467916
+218
+Total run time =  6.20490789413
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4486.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4486.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+s/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+/usr/local/lib/python2.7/dist-packages/scikit_image-0.10dev-py2.7-linux-x86_64.egg/skimage/segmentation/_join.py:127: DeprecationWarning: assignment will raise an error in the future, most likely because your index result shape does not match the value array shape. You can use `arr.flat[index] = values` to keep the old behaviour.
+  forward_map[labels0] = np.arange(offset, offset + len(labels0) + 1)
+Exception TypeError: TypeError("'NoneType' object is not callable",) in <bound method UmfpackContext.new_del of <scipy.sparse.linalg.dsolve.umfpack.umfpack.UmfpackContext object at 0x7fae824cce90>> ignored
+uperpixel clustering done. run time =  0.470328092575
+Starting  merging superpixels ...
+merging superpixel done. run time =  6.91413879395e-06
+Starting  connected components ...
+Number of connected components =  519
+connected components done. run time =  0.0130040645599
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00183606147766
+Total number of segments remaining =  51
+segmentation done. run time =  0.49998497963
+Starting  saliency... ...
+saliency done. run time =  1.7864151001
+Starting  face detection... ...
+0
+face detection done. run time =  0.0513408184052
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.455631971359
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.213349103928
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.519186019897
+(1844,)
+(1, 1844)
+[[ 0.83492632  0.16507368]]
+[ 13.69480952]
+[ 8.17480004]
+[-0.30446325]
+[-8.45669455]
+351
+8.2
+13.6948095234
+177
+Total run time =  3.57870101929
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4516.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4516.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.476593971252
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.00679016113e-06
+Starting  connected components ...
+Number of connected components =  592
+connected components done. run time =  0.0128271579742
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00176596641541
+Total number of segments remaining =  50
+segmentation done. run time =  0.50687789917
+Starting  saliency... ...
+saliency done. run time =  1.83229994774
+Starting  face detection... ...
+0
+face detection done. run time =  0.0536201000214
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.462671995163
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.219748973846
+Starting  composition... ...
+[ 0.  0.]
+composition done. run time =  0.533997058868
+(1844,)
+(1, 1844)
+[[ 0.60414717  0.39585283]]
+[ 13.95811511]
+[ 7.79554949]
+[-0.34660804]
+[-8.72991469]
+424
+7.8
+13.9581151131
+162
+Total run time =  3.66162896156
+/home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4517.JPG
+Image source :  /home/vyzuer/windows/Project/Flickr-code/pos_results/param//ImageDB/IMG_4517.JPG
+Starting  segmentation... ...
+Starting  superpixel clustering ...
+Number of SLIC segments =  48
+superpixel clustering done. run time =  0.460705041885
+Starting  merging superpixels ...
+merging superpixel done. run time =  5.00679016113e-06
+Starting  connected components ...
+Number of connected components =  510
+connected components done. run time =  0.0125679969788
+Starting  deleting small segments ...
+deleting small segments done. run time =  0.00172805786133
+Total number of segments remaining =  49
+segmentation done. run time =  0.491307020187
+Starting  saliency... ...
+saliency done. run time =  1.77604985237
+Starting  face detection... ...
+1
+face detection done. run time =  0.0536749362946
+Starting  saliency detection of objects... ...
+saliency detection of objects done. run time =  0.423499107361
+Starting  removing non-salienct objects... ...
+removing non-salient objects done. run time =  0.215261936188
+Starting  composition... ...
+[ 1.          0.02407552]
+composition done. run time =  0.571113109589
+(1844,)
+(1, 1844)
+[[ 0.81724357  0.18275643]]
+[ 13.44633416]
+[ 5.99611215]
+[-0.343133]
+[-8.70738638]
+418
+6.0
+13.4463341602
+134
+Total run time =  6.25689911842

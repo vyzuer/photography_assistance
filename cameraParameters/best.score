@@ -1,0 +1,22 @@
+
+
+filtering bad features...
+done.
+evaluate ev score...
+done.
+learning model for camera parameters...
+(611, 13)
+(611, 13)
+Mean Square Error :  [-0.13638473 -0.14919046 -0.09816686 -0.08331765 -0.15631217 -0.13714304
+ -0.14151358 -0.12164601 -0.12961676 -0.12009442]
+Accuracy: -0.13 (+/- 0.01)
+R2 Score :  [ 0.45067261  0.50685515  0.65332143  0.70660022  0.48159319  0.51480098
+  0.49325095  0.53591667  0.53743362  0.62049671]
+Accuracy: 0.55 (+/- 0.04)
+0.763001513824
+Variance Score :  0.765825909411
+Mean Absolute Error :  0.172860736787
+Mean Squared Error :  0.0629344253562
+R2 Score:  0.763001513824
+done.
+
